@@ -1112,6 +1112,7 @@ A crumpled scroll blows into your path, possibly leading to treasure. Will you r
 <br><br>
 **Outcomes**:<br>
 You uncover 5 Pickaxes ⛏️. (📜 Read it.)
+You find 5 Wood 🪵 from the ashes. (🔥 Burn it)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1119,9 +1120,14 @@ You uncover 5 Pickaxes ⛏️. (📜 Read it.)
   alt="Treasure Scroll"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/treasurescroll.webp?raw=true"
+  alt="Treasure Scroll2"
+  width="300"
+/>
 <br><br>
-**Date**: April 11, 2025
-**Shared By**: Alucard 
+**Date**: April 11, 2025 and May 3, 2025
+**Shared By**: Alucard and Stewney
 
 <br><br>
 --- 
