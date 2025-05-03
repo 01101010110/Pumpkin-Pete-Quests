@@ -288,6 +288,11 @@ It drops 5 Wild Mushrooms 🍄. (🦊 Shoo it away.)
 <br><br>
 **Screenshots**:<br>
 <img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/foxtheft.webp?raw=true"
+  alt="Fox Theft"
+  width="300"
+/>
+<img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/foxtheft2.png?raw=true"
   alt="Fox Theft 2"
   width="300"
