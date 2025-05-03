@@ -1371,8 +1371,8 @@ You are showered with 200 Coins 🪙. (🪙 Toss a coin.)
   width="300"
 />
 <br><br>
-**Date**: April 10, 2025
-**Shared By**: Alucard 
+**Date**: April 10, 2025 and May 3, 2025
+**Shared By**: Alucard and Digits
 
 <br><br>
 ---
