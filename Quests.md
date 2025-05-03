@@ -409,6 +409,16 @@ The Goblin huffs and vanishes. You receive 50 Coins 🪙. (🚶 Refuse.)<br>
 You receive 5 Pickaxe ⛏️. (🤝 Accept trade.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goblintrade.webp?raw=true"
+  alt="Goblin Trade"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goblintrade2.webp?raw=true"
+  alt="Goblin Trade2"
+  width="300"
+/>
 <br><br>
 **Date**: April 11, 2025
 **Shared By**: Nathan9124 and Digits
