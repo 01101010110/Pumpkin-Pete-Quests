@@ -1221,6 +1221,11 @@ Cornwell spots a wild creature near the woods. Dangerous—or valuable?
 You find a nest filled with 5 Gems 💎. (🧭 Investigate.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/wildcreature.webp?raw=true"
+  alt="Wild Creature"
+  width="300"
+/>
 <br><br>
 **Date**: April 10, 2025
 **Shared By**: Haesoo
