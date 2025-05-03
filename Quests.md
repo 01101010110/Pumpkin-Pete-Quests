@@ -1304,7 +1304,7 @@ You receive 5 Celestine Seed ✨. (🌳 Dig beneath the tree.)
 <br><br>
 **Screenshots**:<br>
 <img
-  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/whispersinthewind.png?raw=true"
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/whispersinthewind.webp?raw=true"
   alt="Whispers in the Wind"
   width="300"
 />
