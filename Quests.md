@@ -71,8 +71,9 @@ You receive 5 Gold 🪙. (🧙‍♂️ Step into the ring.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 19, 2025
+**Shared By**: Thebyber
+ 
 <br><br>
-**Shared By**: Thebyber 
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -92,8 +93,9 @@ You continue farming peacefully and receive 50 Coins. 🧑‍🌾 (Ignore it.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 8, 2025 and April 19, 2025
-<br><br>
 **Shared By**: Digits and DarwinJRG
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -113,8 +115,9 @@ The chicken lays a rare Kale seed 🥬 (equivalent to 5 Kale). (🐥 Let it stru
 **Screenshots**:<br>
 <br><br>
 **Date**: April 12, 2025 and April 17, 2025
-<br><br>
 **Shared By**: Thebyber and Tura
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -134,8 +137,9 @@ What is Cornwell’s profession in Sunflower Land?
 **Screenshots**:<br>
 <br><br>
 **Date**: April 21, 2025
-<br><br>
-**Shared By**: Kamen Rider Decade 
+**Shared By**: Kamen Rider Decade
+
+<br><br> 
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -159,8 +163,9 @@ You receive 50 Coins 🌕. (📘 Close the riddle book.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 20, 2025 and May 1, 2025
-<br><br>
 **Shared By**: Silver-wolf and Digits
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -183,8 +188,9 @@ You receive 10 Corn 🌽. (🔥 Touch the glowing rune.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 23, 2025
-<br><br>
 **Shared By**: Alucard 
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -208,8 +214,9 @@ You walk away, curious but cautious. You receive 50 Coins 🪙 (🐚 Sit by the 
 **Screenshots**:<br>
 <br><br>
 **Date**: April 27, 2025 and April 30, 2025
-<br><br>
 **Shared By**: TJ-Eo and Digits
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -229,8 +236,9 @@ It drops 5 Wild Mushrooms 🍄. (🦊 Shoo it away.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 10, 2025 and April 11, 2025
-<br><br>
 **Shared By**: Digits and Farm22157bumpkin88
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -253,8 +261,9 @@ You receive 10 Pumpkin 🎃. (🧩 Decode the crop symbol.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 18, 2025
-<br><br>
 **Shared By**: TJ-Eo
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -274,8 +283,9 @@ You find 5 Stone 🪨 nearby. (🚶 Stay away.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 10, 2025 and April 17, 2025
-<br><br>
 **Shared By**: DDV and Silver-Wolf
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -295,8 +305,9 @@ A shady goblin whispers about a shortcut to wealth. Trust him?
 **Screenshots**:<br>
 <br><br>
 **Date**: April 22, 2025 and April 26, 2025
-<br><br>
 **Shared By**: Korlithiel
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -316,8 +327,9 @@ You receive 5 Pickaxe ⛏️. (🤝 Accept trade.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 11, 2025
-<br><br>
 **Shared By**: Nathan9124 and Digits
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -337,6 +349,8 @@ You receive 5 Rods 🎣 and 5 Pickaxes ⛏️. (🛠️ Agree.)
 <br><br>
 **Date**: April 8, 2025
 **Shared By**: Kamen Rider Decade 
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -356,8 +370,9 @@ You receive 50 Coins 🪙(🦈 Let it go.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 10, 2025 and April 14, 2025
-<br><br>
 **Shared By**: Silver-wolf, LaMouette, and DarwinJRG
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -380,8 +395,9 @@ You receive 7 Gem 💎. (🍄 Search behind the falls.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 20, 2025
-<br><br>
 **Shared By**: LaMouette
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -401,8 +417,9 @@ He grumbles and tosses a rotten tomato 🍅 at you. You receive 50 Coins. (🙈 
 **Screenshots**:<br>
 <br><br>
 **Date**: April 12, 2025 and April 30, 2025
-<br><br>
 **Shared By**: Wattholm and Korlithiel
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -422,8 +439,9 @@ You receive 10 Pumpkin 🎃. (👑Swap the crown!)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 27, 2025 and April 30, 2025
-<br><br>
 **Shared By**: akutogon, Fllorist20, and Korlithiel
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -444,6 +462,8 @@ You find a few scattered Coins 🪙 (approx. 50 Coins). (🚶 Ignore it.)
 <br><br>
 **Date**: April 10, 2025 and April 14, 2025
 **Shared By**: Thebyber and Digits
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -466,8 +486,9 @@ You receive 5 Celestine Seed 🌱. (🛠️ Enter the hidden room.)
 **Screenshots**:<br> 
 <br><br>
 **Date**: April 18, 2025
-<br><br>
 **Shared By**: Pawel 
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -487,8 +508,9 @@ You receive 5 Wood 🪵. (🏠 Hide inside.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 11, 2025 and April 12, 2025
-<br><br>
 **Shared By**: Thebyber and itsmegruba
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -508,8 +530,9 @@ You receive 50 Coins 🪙. (🚫 Decline.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 10, 2025 and April 14, 2025
-<br><br>
 **Shared By**: Haesoo and Tura
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> Miranda's Song
@@ -531,6 +554,8 @@ You receive 5 Carrot Seed 🥕. (🎵 Follow the music trial.)
 <br><br>
 **Date**: April 19, 2025
 **Shared By**: Nathan9124 
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -551,6 +576,8 @@ You gather 5 Kale 🥬 and 10 Wood 🪵. (🌾 Harvest them.)
 <br><br>
 **Date**: April 10, 2025 and April 12, 2025<br>
 **Shared By**: Stewney and Allucard
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -570,8 +597,9 @@ You collect 5 Wood 🪵 safely. (🛡️ Walk around it.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 12, 2025
-<br><br>
-**Shared By**: Yann and Digits 
+**Shared By**: Yann and Digits
+
+<br><br> 
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -594,8 +622,9 @@ Inside you find 3 Kale Seeds 🥬✨. (📦 Select the glowing package.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 20, 2025
-<br><br>
 **Shared By**: Digits 
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -614,8 +643,9 @@ You win and score 5 Rods 🎣. (🎣 Compete!)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 11, 2025
-<br><br>
-**Shared By**: Farm22157 bumpkin88 
+**Shared By**: Farm22157 bumpkin88
+
+<br><br> 
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -638,8 +668,9 @@ You receive 5 Rod 🎣. (🔍 Scour the dusty barn.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 20, 2025 and April 21, 2025
-<br><br>
 **Shared By**: Thebyber and Silver-Wolf
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -662,8 +693,9 @@ You receive 10 Beetroot 🥬. (🛠️ Uncover the fountain's secret.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 18, 2025
-<br><br>
 **Shared By**: xemzie 
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> Raven’s Secret
@@ -682,8 +714,9 @@ Who is Raven secretly related to?
 **Screenshots**:<br>
 <br><br>
 **Date**: April 21, 2025
-<br><br>
 **Shared By**: Alisa
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -706,8 +739,9 @@ You receive 8 Gem 💎. (🌕 Wait beneath the moonlight.)
 **Screenshots**:<br>
 <br><br> 
 **Date**: April 26, 2025
-<br><br>
 **Shared By**: Korlithiel 
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -730,8 +764,9 @@ You receive 5 Iron Pickaxe ⛏️. (🧭 Search the marked shoreline.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 18, 2025
-<br><br>
 **Shared By**: HM 
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -754,8 +789,9 @@ You receive 5 Honey 🍯. (🐾 Follow the sticky trail.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 19, 2025
-<br><br>
 **Shared By**: Digits
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -778,8 +814,9 @@ You receive 5 Pumpkin Seed 🎃. (🪣 Dig where he points.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 30, 2025
-<br><br>
 **Shared By**: Xemzie
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> Treasure Scroll
@@ -797,8 +834,9 @@ You uncover 5 Pickaxes ⛏️. (📜 Read it.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 11, 2025
-<br><br>
 **Shared By**: Alucard 
+
+<br><br>
 --- 
 <br><br>
 **Quest Name**:<br> 
@@ -822,8 +860,9 @@ You keep the peace and find 100 Coins 🪙 on your way home. (😇 Do nothing.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 23, 2025 and April 27, 2025
-<br><br>
 **Shared By**: Roan and Alucard
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> Whispering Flowers
@@ -842,8 +881,9 @@ You receive 50 Coins 🪙. (🚶 Ignore them.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 9, 2025 and April 14, 2025
-<br><br>
 **Shared By**: Digits
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -866,8 +906,9 @@ You receive 5 Iron ⛓️. (🪻 Sneak into the garden.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 21, 2025
-<br><br>
-**Shared By**: Silver-wolf 
+**Shared By**: Silver-wolf
+
+<br><br> 
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -890,8 +931,9 @@ You receive 5 Celestine Seed ✨. (🌳 Dig beneath the tree.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 20, 2025
-<br><br>
 **Shared By**: Silver-wolf 
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -910,8 +952,9 @@ You find a nest filled with 5 Gems 💎. (🧭 Investigate.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 10, 2025
-<br><br>
 **Shared By**: Haesoo
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
@@ -930,6 +973,7 @@ You are showered with 200 Coins 🪙. (🪙 Toss a coin.)
 **Screenshots**:<br>
 <br><br>
 **Date**: April 10, 2025
-<br><br>
 **Shared By**: Alucard 
+
+<br><br>
 ---
