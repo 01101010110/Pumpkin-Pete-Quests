@@ -281,6 +281,11 @@ You walk away, curious but cautious. You receive 50 Coins 🪙 (🐚 Sit by the 
   alt="Finley's Fish"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/finleysfish.webp?raw=true"
+  alt="Finley's Fish 2"
+  width="300"
+/>
 <br><br>
 **Date**: April 27, 2025 and April 30, 2025
 **Shared By**: TJ-Eo and Digits
