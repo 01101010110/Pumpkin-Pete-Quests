@@ -534,7 +534,7 @@ You receive 10 Pumpkin 🎃. (👑Swap the crown!)
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/jesterprank.png?raw=true"
   alt="Jester’s Prank"
-  width="300"
+  width="200"
 />
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/jesterprank2.png?raw=true"
