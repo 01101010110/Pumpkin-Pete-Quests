@@ -15,10 +15,16 @@ You are blessed with 100 Coins 🪙. (✋ Touch it.)<br>
 You receive 5 Stone 🪨. (🙈 Bury it again.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ancienttotem.png?raw=true"
+  alt="Ancient Totem"
+  width="300"
+/>
+![ancienttotem2](https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ancienttotem2.png?raw=true)
 <br><br>
 **Date**: April 10, 2025, April 11,2025, and April 14 2025
-<br><br>
 **Shared By**: Stewney, Korlithiel, and Wattholm
+
 <br><br>
 ---
 <br><br>
@@ -37,10 +43,12 @@ He rewards you with 5 Wild Mushrooms 🍄 and 50 Coins 🪙. (🎵 Give him mush
 You receive 50 Coins 🪙. (🤐 Ignore him.)
 <br><br>
 **Screenshots**:<br>
+![bardsvisit](https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/bardsvisit.png?raw=true)
 <br><br>
 **Date**: April 10, 2025 and April 11, 2025
-<br><br>
 **Shared By**: Haesoo and  LaMouette 
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
