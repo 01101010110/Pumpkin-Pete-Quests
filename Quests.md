@@ -561,6 +561,11 @@ He grumbles and tosses a rotten tomato 🍅 at you. You receive 50 Coins. (🙈 
   alt="Help Old Cornwell"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/helpoldcornwell.webp?raw=true"
+  alt="Help Old Cornwell2"
+  width="300"
+/>
 <br><br>
 **Date**: April 12, 2025 and April 30, 2025
 **Shared By**: Wattholm and Korlithiel
