@@ -326,6 +326,36 @@ It drops 5 Wild Mushrooms 🍄. (🦊 Shoo it away.)
 ---
 <br><br>
 **Quest Name**:<br> 
+Gambit's Bet
+<br><br>
+**Description**:<br>
+Gambit offers a risky game with high rewards. Do you play?
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
+🚶 Ignore it.
+<br><br>
+Follow-Up **Choices** (if you investigate):
+🕵️ Start the scavenger hunt.<br>
+🎭 Decline the risky bet.
+<br><br>
+**Outcomes**:<br>
+You uncover something valuable and receive 5 Wheat Seed. (🕵️ Start the scavenger hunt.)
+<br><br>
+**Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/gambitsbet.webp?raw=true"
+  alt="Gambit's Bet"
+  width="200"
+/>
+<br><br>
+**Date**: May 2, 2025
+**Shared By**: Xemzie
+
+<br><br>
+---
+<br><br>
+**Quest Name**:<br> 
 Ghostly Harvest
 <br><br>
 **Description**:<br>
