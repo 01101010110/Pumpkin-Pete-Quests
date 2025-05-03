@@ -1185,11 +1185,6 @@ You receive 5 Iron ⛓️. (🪻 Sneak into the garden.)
   alt="Victoria's Command"
   width="300"
 />
-<img
-  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/victoriascommand2.png?raw=true"
-  alt="Victoria's Command 2"
-  width="300"
-/>
 <br><br>
 **Date**: April 21, 2025
 **Shared By**: Silver-wolf
