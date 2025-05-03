@@ -47,9 +47,15 @@ He rewards you with 5 Wild Mushrooms 🍄 and 50 Coins 🪙. (🎵 Give him mush
 You receive 50 Coins 🪙. (🤐 Ignore him.)
 <br><br>
 **Screenshots**:<br>
+
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/bardsvisit.webp?raw=true"
+  alt="Bard's Visit"
+  width="300"
+/>
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/bardsvisit.png?raw=true"
-  alt="Bard's Visit"
+  alt="Bard's Visit2"
   width="300"
 />
 <br><br>
@@ -693,6 +699,11 @@ You find 5 Axes 🪓! (🎁 Buy the box.)<br>
 You receive 50 Coins 🪙. (🚫 Decline.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/merchantmysterybox.webp?raw=true"
+  alt="Merchant’s Mystery Box"
+  width="300"
+/>
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/merchantmysterybox2.png?raw=true"
   alt="Merchant’s Mystery Box 2"
