@@ -1089,27 +1089,6 @@ You keep the peace and find 100 Coins 🪙 on your way home. (😇 Do nothing.)
 <br><br>
 ---
 <br><br>
-**Quest Name**:<br> Whispering Flowers
-<br><br>
-**Description**:<br>
-Your sunflowers whisper secrets in the breeze. Lean in closer?
-<br><br>
-**Choices**:<br>
-👂 Listen closely.<br>
-🏃 Ignore them.
-<br><br>
-**Outcomes**:<br>
-You hear of hidden treasures and gain 100 Coins 🪙. (👂 Listen closely.)<br>
-You receive 50 Coins 🪙. (🚶 Ignore them.)
-<br><br>
-**Screenshots**:<br>
-<br><br>
-**Date**: April 9, 2025 and April 14, 2025
-**Shared By**: Digits
-
-<br><br>
----
-<br><br>
 **Quest Name**:<br> 
 Victoria's Command
 <br><br>
@@ -1143,6 +1122,32 @@ You receive 5 Iron ⛓️. (🪻 Sneak into the garden.)
 **Shared By**: Silver-wolf
 
 <br><br> 
+---
+<br><br>
+**Quest Name**:<br> Whispering Flowers
+<br><br>
+**Description**:<br>
+Your sunflowers whisper secrets in the breeze. Lean in closer?
+<br><br>
+**Choices**:<br>
+👂 Listen closely.<br>
+🏃 Ignore them.
+<br><br>
+**Outcomes**:<br>
+You hear of hidden treasures and gain 100 Coins 🪙. (👂 Listen closely.)<br>
+You receive 50 Coins 🪙. (🚶 Ignore them.)
+<br><br>
+**Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/whisperingflowers.webp?raw=true"
+  alt="Whispering Flowers"
+  width="300"
+/>
+<br><br>
+**Date**: April 9, 2025 and April 14, 2025
+**Shared By**: Digits
+
+<br><br>
 ---
 <br><br>
 **Quest Name**:<br> 
