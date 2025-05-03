@@ -279,7 +279,7 @@ You walk away, curious but cautious. You receive 50 Coins 🪙 (🐚 Sit by the 
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/finleysfish.png?raw=true"
   alt="Finley's Fish"
-  width="300"
+  width="200"
 />
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/finleysfish.webp?raw=true"
@@ -346,7 +346,7 @@ You receive 10 Pumpkin 🎃. (🧩 Decode the crop symbol.)
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ghostlyharvest.png?raw=true"
   alt="Ghostly Harvest"
-  width="300"
+  width="200"
 />
 <br><br>
 **Date**: April 18, 2025
@@ -538,7 +538,7 @@ You receive 7 Gem 💎. (🍄 Search behind the falls.)
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/grimblysfeast.png?raw=true"
   alt="Grimbly's Feast"
-  width="300"
+  width="200"
 />
 <br><br>
 **Date**: April 20, 2025
@@ -669,7 +669,7 @@ You receive 5 Celestine Seed 🌱. (🛠️ Enter the hidden room.)
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/lostscroll.png?raw=true"
   alt="Lost Scroll"
-  width="300"
+  width="200"
 />
 <br><br>
 **Date**: April 18, 2025
@@ -726,7 +726,7 @@ You receive 50 Coins 🪙. (🚫 Decline.)
 <br><br>
 **Screenshots**:<br>
 <img
-  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/merchantmysterybox.webp?raw=true"
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/merchantsmysterybox.webp?raw=true"
   alt="Merchant’s Mystery Box"
   width="300"
 />
