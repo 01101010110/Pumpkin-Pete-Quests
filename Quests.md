@@ -1241,7 +1241,6 @@ You receive 5 Celestine Seed ✨. (🌳 Dig beneath the tree.)
   alt="Whispers in the Wind"
   width="300"
 />
-
 <br><br>
 **Date**: April 20, 2025
 **Shared By**: Silver-wolf 
