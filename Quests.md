@@ -25,6 +25,11 @@ You receive 5 Stone 🪨. (🙈 Bury it again.)
   alt="Ancient Totem 2"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ancienttotem.webp?raw=true"
+  alt="Ancient Totem 3"
+  width="300"
+/>
 <br><br>
 **Date**: April 10, 2025, April 11,2025, and April 14 2025
 **Shared By**: Stewney, Korlithiel, and Wattholm
