@@ -505,6 +505,11 @@ You receive 50 Coins 🪙(🦈 Let it go.)
   alt="Golden Fish 2"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goldenfish.webp?raw=true"
+  alt="Golden Fish 3"
+  width="300"
+/>
 <br><br>
 **Date**: April 10, 2025 and April 14, 2025
 **Shared By**: Silver-wolf, LaMouette, and DarwinJRG
