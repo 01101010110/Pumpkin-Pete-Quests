@@ -717,6 +717,11 @@ Animals eat some of your crops. 50 Coins 🪙. (🐑 Wait till morning.)<br>
 You gather 5 Kale 🥬 and 10 Wood 🪵. (🌾 Harvest them.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/moonlightcrops.png?raw=true"
+  alt="Moonlight Crops"
+  width="300"
+/>
 <br><br>
 **Date**: April 10, 2025 and April 12, 2025<br>
 **Shared By**: Stewney and Allucard
@@ -739,6 +744,11 @@ You feel dizzy but find 3 Wild Mushrooms 🍄. (🌀 Step inside.)<br>
 You collect 5 Wood 🪵 safely. (🛡️ Walk around it.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mushroomcircle2.png?raw=true"
+  alt="Mushroom Circle 2"
+  width="300"
+/>
 <br><br>
 **Date**: April 12, 2025
 **Shared By**: Yann and Digits
@@ -764,6 +774,11 @@ Follow-Up **Choices** (if you investigate):<br>
 Inside you find 3 Kale Seeds 🥬✨. (📦 Select the glowing package.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mysteriousmerchant.png?raw=true"
+  alt="Mysterious Merchant"
+  width="300"
+/>
 <br><br>
 **Date**: April 20, 2025
 **Shared By**: Digits 
@@ -785,6 +800,11 @@ Pete boasts about his fishing skills by the lake. He challenges you to a contest
 You win and score 5 Rods 🎣. (🎣 Compete!)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/petefishingchallenge.png?raw=true"
+  alt="Pete’s Fishing Challenge"
+  width="300"
+/>
 <br><br>
 **Date**: April 11, 2025
 **Shared By**: Farm22157 bumpkin88
@@ -810,6 +830,16 @@ Follow-Up **Choices** (if you investigate):<br>
 You receive 5 Rod 🎣. (🔍 Scour the dusty barn.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/petesparade.png?raw=true"
+  alt="Pete's Parade"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/petesparade2.png?raw=true"
+  alt="Pete's Parade 2"
+  width="300"
+/>
 <br><br>
 **Date**: April 20, 2025 and April 21, 2025
 **Shared By**: Thebyber and Silver-Wolf
@@ -835,6 +865,11 @@ Follow-Up **Choices** (if you investigate):
 You receive 10 Beetroot 🥬. (🛠️ Uncover the fountain's secret.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/plazawhispers.png?raw=true"
+  alt="Plaza Whispers"
+  width="300"
+/>
 <br><br>
 **Date**: April 18, 2025
 **Shared By**: xemzie 
@@ -856,6 +891,11 @@ Who is Raven secretly related to?
 ✅ Correct! Raven is secretly the Blacksmith’s daughter. You earn 100 Coins 🪙 and 5 Gems 💎. (⚒️ The Blacksmith)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ravensecret.png?raw=true"
+  alt="Raven’s Secret"
+  width="300"
+/>
 <br><br>
 **Date**: April 21, 2025
 **Shared By**: Alisa
@@ -881,6 +921,11 @@ Follow-Up **Choices** (if you investigate):<br>
 You receive 8 Gem 💎. (🌕 Wait beneath the moonlight.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ravensvision.png?raw=true"
+  alt="Raven's Vision"
+  width="300"
+/>
 <br><br> 
 **Date**: April 26, 2025
 **Shared By**: Korlithiel 
@@ -906,6 +951,11 @@ Follow-Up **Choices** (if you investigate):<br>
 You receive 5 Iron Pickaxe ⛏️. (🧭 Search the marked shoreline.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/sunkenbottle.png?raw=true"
+  alt="Sunken Bottle"
+  width="300"
+/>
 <br><br>
 **Date**: April 18, 2025
 **Shared By**: HM 
@@ -931,6 +981,11 @@ Follow-Up **Choices** (if you investigate):
 You receive 5 Honey 🍯. (🐾 Follow the sticky trail.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/timmystrouble.png?raw=true"
+  alt="Timmy’s Trouble"
+  width="300"
+/>
 <br><br>
 **Date**: April 19, 2025
 **Shared By**: Digits
@@ -956,6 +1011,11 @@ Follow-Up **Choices** (if you investigate):
 You receive 5 Pumpkin Seed 🎃. (🪣 Dig where he points.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/treasuredust.png?raw=true"
+  alt="Treasure Dust"
+  width="300"
+/>
 <br><br>
 **Date**: April 30, 2025
 **Shared By**: Xemzie
@@ -976,6 +1036,11 @@ A crumpled scroll blows into your path, possibly leading to treasure. Will you r
 You uncover 5 Pickaxes ⛏️. (📜 Read it.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/treasurescroll.png?raw=true"
+  alt="Treasure Scroll"
+  width="300"
+/>
 <br><br>
 **Date**: April 11, 2025
 **Shared By**: Alucard 
@@ -1002,6 +1067,16 @@ You sneak in and steal 10 Kale 🥬 from the Kingdom! (🧨 Sabotage his supply 
 You keep the peace and find 100 Coins 🪙 on your way home. (😇 Do nothing.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/tywinstax.png?raw=true"
+  alt="Tywin's Tax"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/tywinstax2.png?raw=true"
+  alt="Tywin's Tax 2"
+  width="300"
+/>
 <br><br>
 **Date**: April 23, 2025 and April 27, 2025
 **Shared By**: Roan and Alucard
@@ -1048,6 +1123,16 @@ Follow-Up **Choices** (if you investigate):<br>
 You receive 5 Iron ⛓️. (🪻 Sneak into the garden.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/victoriascommand.png?raw=true"
+  alt="Victoria's Command"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/victoriascommand2.png?raw=true"
+  alt="Victoria's Command 2"
+  width="300"
+/>
 <br><br>
 **Date**: April 21, 2025
 **Shared By**: Silver-wolf
@@ -1073,6 +1158,12 @@ A strange wind blows through the Plaza, carrying soft whispers that only you see
 You receive 5 Celestine Seed ✨. (🌳 Dig beneath the tree.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/whispersinthewind.png?raw=true"
+  alt="Whispers in the Wind"
+  width="300"
+/>
+
 <br><br>
 **Date**: April 20, 2025
 **Shared By**: Silver-wolf 
@@ -1115,6 +1206,11 @@ An old wishing well glows faintly under the stars. Toss a coin and make a wish?
 You are showered with 200 Coins 🪙. (🪙 Toss a coin.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/wishingwell.png?raw=true"
+  alt="Wishing Well"
+  width="300"
+/>
 <br><br>
 **Date**: April 10, 2025
 **Shared By**: Alucard 
