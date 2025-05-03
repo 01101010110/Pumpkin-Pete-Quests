@@ -749,6 +749,11 @@ You gather 5 Kale 🥬 and 10 Wood 🪵. (🌾 Harvest them.)
 <br><br>
 **Screenshots**:<br>
 <img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/moonlightcrops.webp?raw=true"
+  alt="Moonlight Crops2"
+  width="300"
+/>
+<img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/moonlightcrops.png?raw=true"
   alt="Moonlight Crops"
   width="300"
