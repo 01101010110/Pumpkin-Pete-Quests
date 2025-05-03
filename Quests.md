@@ -1299,6 +1299,16 @@ You are showered with 200 Coins 🪙. (🪙 Toss a coin.)
   alt="Wishing Well"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/wishingwell.webp?raw=true"
+  alt="Wishing Well2"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/wishingwell2.webp?raw=true"
+  alt="Wishing Well3"
+  width="300"
+/>
 <br><br>
 **Date**: April 10, 2025
 **Shared By**: Alucard 
