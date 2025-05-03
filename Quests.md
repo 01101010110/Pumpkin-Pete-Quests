@@ -3,7 +3,7 @@ Pumpkin Pete Quest Log
 **Quest Name**:<br>
 Ancient Totem
 <br><br>
-**Description**:<br><br>
+**Description**:<br>
 While digging, you unearth a strange humming totem covered in runes. What will you do?<br>
 <br><br>
 **Choices**:<br>
