@@ -864,6 +864,35 @@ Inside you find 3 Kale Seeds 🥬✨. (📦 Select the glowing package.)
 <br><br>
 ---
 <br><br>
+**Quest Name**:<br>
+Mystic Well
+<br><br>
+**Description**:<br>
+A bubbling well behind the plaza is glowing. Drop something in? As you approach the well, you hear a voice whisper that if you drop a precious item into it, you'll receive something even more valuable in return. The voice says it must be something you treasure. Will you make an offering?
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
+🚶 Ignore it.
+<br><br>
+**Follow-Up Choices** (if you investigate):<br>
+💎 Drop your treasured item.<br>
+🌑 Keep your belongings.<br>
+<br><br>
+**Outcomes**:<br>
+You uncover something valuable and receive 5 Stone 🪨. (💎 Drop your treasured item.)<br>
+<br><br>
+**Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mysticwell.webp?raw=true"
+  alt="Mystic Well"
+  width="300"
+/>
+<br><br>
+**Date**: May 3, 2025
+**Shared By**: Nox
+
+<br><br>
+---
 **Quest Name**:<br> 
 Pete’s Fishing Challenge
 <br><br>
