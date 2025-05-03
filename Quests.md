@@ -453,7 +453,7 @@ A Golden Fish is flopping by the river, its scales glistening in the sunlight. L
 🦈 Let it go.
 <br><br>
 **Outcomes**:<br>
-You catch the fish and find 15 Gems 💎.(🐠 Catch it!)
+You catch the fish and find 15 Gems 💎.(🐠 Catch it!)<br>
 You receive 50 Coins 🪙(🦈 Let it go.)
 <br><br>
 **Screenshots**:<br>
