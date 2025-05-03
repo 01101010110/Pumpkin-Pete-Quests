@@ -1,894 +1,927 @@
 Pumpkin Pete Quest Log
----
-
-****Quest Name****: 
+--- 
+**Quest Name**:<br>
 Ancient Totem
-
-****Description****: 
-While digging, you unearth a strange humming totem covered in runes. What will you do?
-
-**Choices**:
-✋ Touch it.
+<br><br>
+**Description**:<br><br>
+While digging, you unearth a strange humming totem covered in runes. What will you do?<br>
+<br><br>
+**Choices**:<br>
+✋ Touch it.<br>
 🙈 Bury it again.
-
-**Outcomes**:
-You are blessed with 100 Coins 🪙. (✋ Touch it.)
+<br><br>
+**Outcomes**:<br>
+You are blessed with 100 Coins 🪙. (✋ Touch it.)<br>
 You receive 5 Stone 🪨. (🙈 Bury it again.)
-
-**Screenshots**:
-
-Date: April 10, 2025, April 11,2025, and April 14 2025
-Shared By: Stewney, Korlithiel, and Wattholm
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 10, 2025, April 11,2025, and April 14 2025
+<br><br>
+**Shared By**: Stewney, Korlithiel, and Wattholm
+<br><br>
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br>
 Bard's Visit
-
-**Description**:
+<br><br>
+**Description**:<br>
 A traveling bard plays a lively tune and asks for a small gift to bless your harvest. How will you respond?
-
-**Choices**:
-🎵 Give him mushrooms.
+<br><br>
+**Choices**:<br>
+🎵 Give him mushrooms.<br>
 🤐 Ignore him.
-
-**Outcomes**:
-He rewards you with 5 Wild Mushrooms 🍄 and 50 Coins 🪙. (🎵 Give him mushrooms.)
+<br><br>
+**Outcomes**:<br>
+He rewards you with 5 Wild Mushrooms 🍄 and 50 Coins 🪙. (🎵 Give him mushrooms.)<br>
 You receive 50 Coins 🪙. (🤐 Ignore him.)
-
-**Screenshots**:
-
-Date: April 10, 2025 and April 11, 2025
-Shared By: Haesoo and  LaMouette 
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 10, 2025 and April 11, 2025
+<br><br>
+**Shared By**: Haesoo and  LaMouette 
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Bert’s Portal
-
-**Description**:
+<br><br>
+**Description**:<br>
 Bert says a mushroom ring is a portal to another land. Try jumping in?
-
-**Choices**:
-✅ Investigate.
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
 🚶 Ignore it.
-
-**Follow-Up Choices** (if you investigate):
-🧙‍♂️ Step into the ring.
+<br><br>
+**Follow-Up Choices** (if you investigate):<br>
+🧙‍♂️ Step into the ring.<br>
 🧿 Back away slowly.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You receive 5 Gold 🪙. (🧙‍♂️ Step into the ring.)
-
-**Screenshots**:
-
-Date: April 19, 2025
-Shared By: Thebyber 
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 19, 2025
+<br><br>
+**Shared By**: Thebyber 
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Chase the Rainbow
-
-**Description**:
+<br><br>
+**Description**:<br>
 A dazzling rainbow arcs across Sunflower Land. It’s said treasures lie at its base. Will you chase it?
-
-**Choices**:
-🏃 Chase it!
+<br><br>
+**Choices**:<br>
+🏃 Chase it!<br>
 🧑‍🌾 Ignore it.
-
-**Outcomes**:
-You find 10 Gems 💎. (🏃 Chase it!)
+<br><br>
+**Outcomes**:<br>
+You find 10 Gems 💎. (🏃 Chase it!)<br>
 You continue farming peacefully and receive 50 Coins. 🧑‍🌾 (Ignore it.)
-
-**Screenshots**:
-
-Date: April 8, 2025 and April 19, 2025
-Shared By: Digits and DarwinJRG
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 8, 2025 and April 19, 2025
+<br><br>
+**Shared By**: Digits and DarwinJRG
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Chicken Race
-
-**Description**:
+<br><br>
+**Description**:<br>
 A cheeky chicken challenges you to a race around the farm. Villagers are watching!
-
-**Choices**:
-🏃‍♂️ Race the chicken.
+<br><br>
+**Choices**:<br>
+🏃‍♂️ Race the chicken.<br>
 🐥 Let it strut.
-
-
-**Outcomes**:
-You win and earn 5 Axes 🪓 and 50 Coins 🪙. (🏃‍♂️ Race the chicken.)
+<br><br>
+**Outcomes**:<br>
+You win and earn 5 Axes 🪓 and 50 Coins 🪙. (🏃‍♂️ Race the chicken.)<br>
 The chicken lays a rare Kale seed 🥬 (equivalent to 5 Kale). (🐥 Let it strut.)
-
-
-**Screenshots**:
-
-Date: April 12, 2025 and April 17, 2025
-Shared By: Thebyber and Tura
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 12, 2025 and April 17, 2025
+<br><br>
+**Shared By**: Thebyber and Tura
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Cornwell’s Curiosity
-
-**Description**:
+<br><br>
+**Description**:<br>
 What is Cornwell’s profession in Sunflower Land?
-
-**Choices**:
-🧙 Wizard
-📖 Librarian
+<br><br>
+**Choices**:<br>
+🧙 Wizard<br>
+📖 Librarian<br>
 🔨 Blacksmith
-
-**Outcomes**:
-✅ Correct! Cornwell is the Kingdom’s wise Librarian.
- You earn 100 Coins 🪙 and 5 Gems 💎. (📖 Librarian)
-
-**Screenshots**:
-
-Date: April 21, 2025
-Shared By: Kamen Rider Decade 
+<br><br>
+**Outcomes**:<br>
+✅ Correct! Cornwell is the Kingdom’s wise Librarian. You earn 100 Coins 🪙 and 5 Gems 💎. (📖 Librarian)
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 21, 2025
+<br><br>
+**Shared By**: Kamen Rider Decade 
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Cornwell’s Riddle
-
-**Description**:
+<br><br>
+**Description**:<br>
 Cornwell challenges you with a cryptic riddle tied to a hidden stash. Try to solve it?
-
-**Choices**:
-✅ Investigate.
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
 🚶 Ignore it.
-
-**Follow-Up Choices** (if you investigate):
-👨‍🌾 Investigate the answer.
+<br><br>
+**Follow-Up Choices** (if you investigate):<br>
+👨‍🌾 Investigate the answer.<br>
 📘 Close the riddle book.
-
-**Outcomes**:
-You receive 10 Kale 🥬. (👨‍🌾 Investigate the answer.)
+<br><br>
+**Outcomes**:<br>
+You receive 10 Kale 🥬. (👨‍🌾 Investigate the answer.)<br>
 You receive 50 Coins 🌕. (📘 Close the riddle book.)
-
-**Screenshots**:
-
-Date: April 20, 2025 and May 1, 2025
-Shared By: Silver-wolf and Digits
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 20, 2025 and May 1, 2025
+<br><br>
+**Shared By**: Silver-wolf and Digits
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Desert Rune
-
-**Description**:
+<br><br>
+**Description**:<br>
 A glowing rune was found in the desert. Touch it or report it?
-
-**Choices**:
-✅ Investigate.
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
 🚶 Ignore it.
-
-Follow-Up **Choices** (if you investigate):
-🔥 Touch the glowing rune.
+<br><br>
+Follow-Up **Choices** (if you investigate):<br>
+🔥 Touch the glowing rune.<br>
 🧘 Leave it undisturbed.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You receive 10 Corn 🌽. (🔥 Touch the glowing rune.)
-
-**Screenshots**:
-
-Date: April 23, 2025
-Shared By: Alucard 
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 23, 2025
+<br><br>
+**Shared By**: Alucard 
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Finley's Fish
-
-**Description**:
+<br><br>
+**Description**:<br>
 Finley saw a huge shadow in the ocean. Try to catch it?
-
-**Choices**:
-✅ Investigate.
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
 🚶 Ignore it.
-
-**Follow-Up Choices** (if you investigate):
-🎣 Cast Finley's rod.
+<br><br>
+**Follow-Up Choices** (if you investigate):<br>
+🎣 Cast Finley's rod.<br>
 🐚 Sit by the shore instead.
-
-**Outcomes**:
-You receive 5 Stone 🪨. (🎣 Cast Finley's rod.)
+<br><br>
+**Outcomes**:<br>
+You receive 5 Stone 🪨. (🎣 Cast Finley's rod.)<br><br>
 You walk away, curious but cautious. You receive 50 Coins 🪙 (🐚 Sit by the shore instead.)
-
-**Screenshots**:
- 
-Date: April 27, 2025 and April 30, 2025
-Shared By: TJ-Eo and Digits
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 27, 2025 and April 30, 2025
+<br><br>
+**Shared By**: TJ-Eo and Digits
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Fox Theft
-
-**Description**:
+<br><br>
+**Description**:<br>
 A fox is spotted stealing berries from your farm. Quick thinking might save your harvest!
-
-**Choices**:
-🦊 Shoo it away.
+<br><br>
+**Choices**:<br>
+🦊 Shoo it away.<br>
 🥬 Let it go.
-
-**Outcomes**:
-The fox leaves a Kale leaf 🥬 behind. Gives 5 kale in game (🥬 Let it go.)
+<br><br>
+**Outcomes**:<br>
+The fox leaves a Kale leaf 🥬 behind. Gives 5 kale in game (🥬 Let it go.)<br>
 It drops 5 Wild Mushrooms 🍄. (🦊 Shoo it away.)
-
-**Screenshots**:
-
-Date: April 10, 2025 and April 11, 2025
-Shared By: Digits and Farm22157bumpkin88
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 10, 2025 and April 11, 2025
+<br><br>
+**Shared By**: Digits and Farm22157bumpkin88
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Ghostly Harvest
-
-**Description**:
+<br><br>
+**Description**:<br>
 Strange crops have sprouted overnight, glowing under the moonlight. Investigate?
-
-**Choices**:
-✅ Investigate.
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
 🚶 Ignore it.
-
+<br><br>
 Follow-Up **Choices** (if you investigate):
-🧩 Decode the crop symbol.
+🧩 Decode the crop symbol.<br>
 🌑 Step away from the glow.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You receive 10 Pumpkin 🎃. (🧩 Decode the crop symbol.)
-
-**Screenshots**:
-
-Date: April 18, 2025
-Shared By: TJ-Eo
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 18, 2025
+<br><br>
+**Shared By**: TJ-Eo
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Goblin Dance Party
-
-**Description**:
+<br><br>
+**Description**:<br>
 The Goblins have set up a wild dance party in the fields. Strange music fills the air. Join them?
-
-**Choices**:
-💃 Join them.
+<br><br>
+**Choices**:<br>
+💃 Join them.<br>
 🕺 Stay away.
-
-**Outcomes**:
-They gift you 15 Love Charms 💝. (💃 Join them.)
+<br><br>
+**Outcomes**:<br>
+They gift you 15 Love Charms 💝. (💃 Join them.)<br>
 You find 5 Stone 🪨 nearby. (🚶 Stay away.)
-
-**Screenshots**:
-
-Date: April 10, 2025 and April 17, 2025
-Shared By: DDV and Silver-Wolf
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 10, 2025 and April 17, 2025
+<br><br>
+**Shared By**: DDV and Silver-Wolf
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Goblin Scheme
-
-**Description**:
+<br><br>
+**Description**:<br>
 A shady goblin whispers about a shortcut to wealth. Trust him?
-
-**Choices**:
-✅ Investigate.
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
 🚶 Ignore it.
-
-**Outcomes**:
-💰 Enter the mountain lair. — You receive 5 Corn Seed 🌽.
+<br><br>
+**Outcomes**:<br>
+💰 Enter the mountain lair. — You receive 5 Corn Seed 🌽.<br>
 🚫 Ignore the goblin's tip. — Outcome not yet recorded.
-
-**Screenshots**:
-
-Date: April 22, 2025 and April 26, 2025
-Shared By: Korlithiel
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 22, 2025 and April 26, 2025
+<br><br>
+**Shared By**: Korlithiel
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Goblin Trade
-
-**Description**:
+<br><br>
+**Description**:<br>
 A sneaky Goblin jingles a bag of shiny stones, offering a suspicious trade for your crops. Will you trust him?
-
-**Choices**:
-🤝 Accept trade.
+<br><br>
+**Choices**:<br>
+🤝 Accept trade.<br>
 🚶 Refuse.
-
-**Outcomes**:
-The Goblin huffs and vanishes. You receive 50 Coins 🪙. (🚶 Refuse.)
+<br><br>
+**Outcomes**:<br>
+The Goblin huffs and vanishes. You receive 50 Coins 🪙. (🚶 Refuse.)<br>
 You receive 5 Pickaxe ⛏️. (🤝 Accept trade.)
-
-**Screenshots**:
-
-Date: April 11, 2025
-Shared By: Nathan9124 and Digits
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 11, 2025
+<br><br>
+**Shared By**: Nathan9124 and Digits
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Goblin Upgrade
-
-**Description**:
+<br><br>
+**Description**:<br>
 A shady Goblin offers to "upgrade" your tools. His grin is unsettling. Trust him?
-
-**Choices**:
-🛠️ Agree.
+<br><br>
+**Choices**:<br>
+🛠️ Agree.<br>
 ❌ Decline.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You receive 5 Rods 🎣 and 5 Pickaxes ⛏️. (🛠️ Agree.)
-
-**Screenshots**:
-
-Date: April 8, 2025
-Shared By: Kamen Rider Decade 
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 8, 2025
+**Shared By**: Kamen Rider Decade 
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Golden Fish
-
-**Description**:
+<br><br>
+**Description**:<br>
 A Golden Fish is flopping by the river, its scales glistening in the sunlight. Legends say catching it brings great fortune. Will you take the risk?
-
-**Choices**:
-🐠 Catch it!
+<br><br>
+**Choices**:<br>
+🐠 Catch it!<br>
 🦈 Let it go.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You catch the fish and find 15 Gems 💎.(🐠 Catch it!)
 You receive 50 Coins 🪙(🦈 Let it go.)
-
-**Screenshots**:
-
- Date: April 10, 2025 and April 14, 2025
-Shared By: Silver-wolf, LaMouette, and DarwinJRG
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 10, 2025 and April 14, 2025
+<br><br>
+**Shared By**: Silver-wolf, LaMouette, and DarwinJRG
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Grimbly's Feast
-
-**Description**:
+<br><br>
+**Description**:<br>
 Grimbly is preparing a Goblin feast but needs one last ingredient. Help him?
-
-**Choices**:
-✅ Investigate.
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
 🚶 Ignore it.
-
-**Follow-Up Choices** (if you investigate):
-🍄 Search behind the falls.
+<br><br>
+**Follow-Up Choices** (if you investigate):<br>
+🍄 Search behind the falls.<br>
 🥣 Refuse the recipe.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You receive 7 Gem 💎. (🍄 Search behind the falls.)
-
-**Screenshots**:
-
-Date: April 20, 2025
-Shared By: LaMouette
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 20, 2025
+<br><br>
+**Shared By**: LaMouette
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Help Old Cornwell
-
-**Description**:
+<br><br>
+**Description**:<br>
 Wise Old Cornwell waves you over, arms full of freshly picked Kale. He looks exhausted and could use a hand. Will you help the old Bumpkin?
-
-**Choices**:
-🧑‍🌾 Help him.
+<br><br>
+**Choices**:<br>
+🧑‍🌾 Help him.<br>
 🙈 Ignore him.
-
-**Outcomes**:
-Cornwell gifts you 5 Kale 🥬 and 10 Love Charms 💘. (🧑‍🌾 Help him.)
+<br><br>
+**Outcomes**:<br>
+Cornwell gifts you 5 Kale 🥬 and 10 Love Charms 💘. (🧑‍🌾 Help him.)<br>
 He grumbles and tosses a rotten tomato 🍅 at you. You receive 50 Coins. (🙈 Ignore him.)
-
-
-**Screenshots**:
-
-Date: April 12, 2025 and April 30, 2025
-Shared By: Wattholm and Korlithiel
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 12, 2025 and April 30, 2025
+<br><br>
+**Shared By**: Wattholm and Korlithiel
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Jester’s Prank
-
-**Description**:  
+<br><br>
+**Description**:<br>  
 The Jester reveals his plan: he's going to replace Victoria's crown with a fake one during the royal procession. He says it's just a harmless prank, but you know Victoria doesn't have a sense of humor. He offers you a share of the reward if you help. Will you participate?
-
-**Choices**:
-👑 Swap the crown!
+<br><br>
+**Choices**:<br>
+👑 Swap the crown!<br>
 ⚖️ Warn the queen.
-
-**Outcomes**:
-You walk away, curious but cautious.  You receive 50 Coins 🪙. (⚖️ Warn the queen)
+<br><br>
+**Outcomes**:<br>
+You walk away, curious but cautious.  You receive 50 Coins 🪙. (⚖️ Warn the queen)<br>
 You receive 10 Pumpkin 🎃. (👑Swap the crown!)
-
-**Screenshots**:
-
-Date: April 27, 2025 and April 30, 2025
-Shared By: akutogon, Fllorist20, and Korlithiel
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 27, 2025 and April 30, 2025
+<br><br>
+**Shared By**: akutogon, Fllorist20, and Korlithiel
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Lost Pirate Map
-
-**Description**:
+<br><br>
+**Description**:<br>
 You stumble upon a torn pirate map buried in the sand. Will you follow it?
-
-**Choices**:
-🗺️ Follow it.
+<br><br>
+**Choices**:<br>
+🗺️ Follow it.<br>
 🚶 Ignore it.
-
-**Outcomes**:
-You dig up a treasure chest full of 10 Gems 💎. (🗺️ Follow it.)
+<br><br>
+**Outcomes**:<br>
+You dig up a treasure chest full of 10 Gems 💎. (🗺️ Follow it.)<br>
 You find a few scattered Coins 🪙 (approx. 50 Coins). (🚶 Ignore it.)
-
-**Screenshots**:
-
-Date: April 10, 2025 and April 14, 2025
-Shared By: Thebyber and Digits
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 10, 2025 and April 14, 2025
+**Shared By**: Thebyber and Digits
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Lost Scroll
-
-**Description**:
+<br><br>
+**Description**:<br>
 Cornwell misplaced a scroll that could reveal ancient truths. Help find it?
-
-**Choices**:
-✅ Investigate.
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
 🚶 Ignore it.
-
-**Follow-Up Choices** (if you investigate):
-🛠️ Enter the hidden room.
+<br><br>
+**Follow-Up Choices** (if you investigate):<br>
+🛠️ Enter the hidden room.<br>
 📚 Leave the library.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You receive 5 Celestine Seed 🌱. (🛠️ Enter the hidden room.)
-
-**Screenshots**: 
-
-Date: April 18, 2025
-Shared By: Pawel 
+<br><br>
+**Screenshots**:<br> 
+<br><br>
+**Date**: April 18, 2025
+<br><br>
+**Shared By**: Pawel 
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Magic Storm
-
-**Description**:
+<br><br>
+**Description**:<br>
 A vibrant magic storm rolls across Sunflower Land. Will you brave it?
-
-**Choices**:
-🌫️ Dance in the storm.
+<br><br>
+**Choices**:<br>
+🌫️ Dance in the storm.<br>
 🏠 Hide inside.
-
-**Outcomes**:
-You absorb its energy and gain 10 Axes 🪓. (🌫️ Dance in the storm.)
+<br><br>
+**Outcomes**:<br>
+You absorb its energy and gain 10 Axes 🪓. (🌫️ Dance in the storm.)<br>
 You receive 5 Wood 🪵. (🏠 Hide inside.)
-
-**Screenshots**:
-
-Date: April 11, 2025 and April 12, 2025
-Shared By: Thebyber and itsmegruba
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 11, 2025 and April 12, 2025
+<br><br>
+**Shared By**: Thebyber and itsmegruba
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Merchant’s Mystery Box
-
-**Description**:
+<br><br>
+**Description**:<br>
 A wandering merchant offers you a sealed mystery box. He promises great rewards inside. Will you buy it?
-
-**Choices**:
-🎁 Buy the box.
+<br><br>
+**Choices**:<br>
+🎁 Buy the box.<br>
 🚫 Decline.
-
-**Outcomes**:
-You find 5 Axes 🪓! (🎁 Buy the box.)
+<br><br>
+**Outcomes**:<br>
+You find 5 Axes 🪓! (🎁 Buy the box.)<br>
 You receive 50 Coins 🪙. (🚫 Decline.)
-
-**Screenshots**:
-
-Date: April 10, 2025 and April 14, 2025
-Shared By: Haesoo and Tura
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 10, 2025 and April 14, 2025
+<br><br>
+**Shared By**: Haesoo and Tura
 ---
-
-**Quest Name**: Miranda's Song
-**Description**:
+<br><br>
+**Quest Name**:<br> Miranda's Song
+**Description**:<br>
 Miranda found a seashell that sings. Listen to it?
-
-**Choices**:
-✅ Investigate.
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
 🚶 Ignore it.
-
-**Follow-Up Choices** (if you investigate):
-🎵 Follow the music trial.
+<br><br>
+**Follow-Up Choices** (if you investigate):<br>
+🎵 Follow the music trial.<br>
 ❓ (Awaiting alternative path confirmation)
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You receive 5 Carrot Seed 🥕. (🎵 Follow the music trial.)
-
-**Screenshots**:
-
-Date: April 19, 2025
-Shared By: Nathan9124 
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 19, 2025
+**Shared By**: Nathan9124 
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Moonlight Crops
-
-**Description**:
+<br><br>
+**Description**:<br>
 Your crops glisten under the full moon. Old tales say moon-harvests bring unusual yields. What will you do?
-
-**Choices**:
+<br><br>
+**Choices**:<br>
 🌾 Harvest them.
 🐑 Wait till morning.
-
-**Outcomes**:
-Animals eat some of your crops. 50 Coins 🪙. (🐑 Wait till morning.)
+<br><br>
+**Outcomes**:<br>
+Animals eat some of your crops. 50 Coins 🪙. (🐑 Wait till morning.)<br>
 You gather 5 Kale 🥬 and 10 Wood 🪵. (🌾 Harvest them.)
-
-**Screenshots**:
-
-Date: April 10, 2025 and April 12, 2025
-Shared By: Stewney and Allucard
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 10, 2025 and April 12, 2025<br>
+**Shared By**: Stewney and Allucard
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Mushroom Circle
-
-**Description**:
+<br><br>
+**Description**:<br>
 Overnight, a glowing circle of mushrooms has formed near your farm. Strange energies hum in the air. Dare to step inside?
-
-**Choices**:
-🌀 Step inside.
+<br><br>
+**Choices**:<br>
+🌀 Step inside.<br>
 🛡️ Walk around it.
-
-**Outcomes**:
-You feel dizzy but find 3 Wild Mushrooms 🍄. (🌀 Step inside.)
+<br><br>
+**Outcomes**:<br>
+You feel dizzy but find 3 Wild Mushrooms 🍄. (🌀 Step inside.)<br>
 You collect 5 Wood 🪵 safely. (🛡️ Walk around it.)
-
-**Screenshots**:
-
-Date: April 12, 2025
-Shared By: Yann and Digits 
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 12, 2025
+<br><br>
+**Shared By**: Yann and Digits 
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Mysterious Merchant
-
-**Description**:
+<br><br>
+**Description**:<br>
 A cloaked figure appears at the edge of your farm, offering rare goods for an unusual price...
-
-**Choices**:
-✅ Investigate.
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
 🚶 Ignore it.
-
-Follow-Up **Choices** (if you investigate):
-📦 Select the glowing package.
+<br><br>
+Follow-Up **Choices** (if you investigate):<br>
+📦 Select the glowing package.<br>
 🎁 Choose the wooden box.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 Inside you find 3 Kale Seeds 🥬✨. (📦 Select the glowing package.)
-
-**Screenshots**:
-
-Date: April 20, 2025
-Shared By: Digits 
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 20, 2025
+<br><br>
+**Shared By**: Digits 
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Pete’s Fishing Challenge
-
-**Description**:
+<br><br>
+**Description**:<br>
 Pete boasts about his fishing skills by the lake. He challenges you to a contest. Accept?
-
-**Choices**:
-🎣 Compete!
+<br><br>
+**Choices**:<br>
+🎣 Compete!<br>
 🧑‍🌾 Decline.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You win and score 5 Rods 🎣. (🎣 Compete!)
-
-**Screenshots**:
-
-Date: April 11, 2025
-Shared By: Farm22157 bumpkin88 
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 11, 2025
+<br><br>
+**Shared By**: Farm22157 bumpkin88 
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Pete's Parade
-
-**Description**:
+<br><br>
+**Description**:<br>
 The plaza is setting up a parade, but Pete’s float is broken! Help him fix it?
-
-**Choices**:
-✅ Investigate.
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
 🚶 Ignore it.
-
-Follow-Up **Choices** (if you investigate):
-🔍 Scour the dusty barn.
+<br><br>
+Follow-Up **Choices** (if you investigate):<br>
+🔍 Scour the dusty barn.<br>
 🚫 Leave the float unfinished.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You receive 5 Rod 🎣. (🔍 Scour the dusty barn.)
-
-**Screenshots**:
-
-Date: April 20, 2025 and April 21, 2025
-Shared By: Thebyber and Silver-Wolf
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 20, 2025 and April 21, 2025
+<br><br>
+**Shared By**: Thebyber and Silver-Wolf
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Plaza Whispers
-
-**Description**:
+<br><br>
+**Description**:<br>
 Betty says the plaza is whispering secrets at night. Investigate the sound?
-
-**Choices**:
-✅ Investigate.
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
 🚶 Ignore it.
-
+<br><br>
 Follow-Up **Choices** (if you investigate):
 🛠️ Uncover the fountain's secret.
 🚶 Walk into the night.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You receive 10 Beetroot 🥬. (🛠️ Uncover the fountain's secret.)
-
-**Screenshots**:
-
-Date: April 18, 2025
-Shared By: xemzie 
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 18, 2025
+<br><br>
+**Shared By**: xemzie 
 ---
-
-**Quest Name**: Raven’s Secret
-
-**Description**:
+<br><br>
+**Quest Name**:<br> Raven’s Secret
+<br><br>
+**Description**:<br>
 Who is Raven secretly related to?
- 
-**Choices**:
-👸 Queen Victoria
-⚒️ The Blacksmith
+<br><br> 
+**Choices**:<br>
+👸 Queen Victoria<br>
+⚒️ The Blacksmith<br>
 🧝 A Moonseeker
-
-**Outcomes**:
-✅ Correct! Raven is secretly the Blacksmith’s daughter.
- You earn 100 Coins 🪙 and 5 Gems 💎. (⚒️ The Blacksmith)
-
-**Screenshots**:
-
-Date: April 21, 2025
-Shared By: Alisa
+<br><br>
+**Outcomes**:<br>
+✅ Correct! Raven is secretly the Blacksmith’s daughter. You earn 100 Coins 🪙 and 5 Gems 💎. (⚒️ The Blacksmith)
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 21, 2025
+<br><br>
+**Shared By**: Alisa
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Raven's Vision
-
-**Description**:
+<br><br>
+**Description**:<br>
 Raven speaks of a vision involving a rare flower and a lunar event. Search for it?
-
-**Choices**:
+<br><br>
+**Choices**:<br>
 ✅ Investigate.
 🚶 Ignore it.
-
-Follow-Up **Choices** (if you investigate):
-🌕 Wait beneath the moonlight.
+<br><br>
+Follow-Up **Choices** (if you investigate):<br>
+🌕 Wait beneath the moonlight.<br>
 🏳️ Skip the lunar ritual.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You receive 8 Gem 💎. (🌕 Wait beneath the moonlight.)
-
-**Screenshots**:
- 
-Date: April 26, 2025
-Shared By: Korlithiel 
+<br><br>
+**Screenshots**:<br>
+<br><br> 
+**Date**: April 26, 2025
+<br><br>
+**Shared By**: Korlithiel 
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Sunken Bottle
-
-**Description**:
+<br><br>
+**Description**:<br>
 A mysterious bottle washed ashore. It holds an old, crumpled note. Open it?
-
-**Choices**:
-✅ Investigate.
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
 🚶 Ignore it.
-
-Follow-Up **Choices** (if you investigate):
-🧭 Search the marked shoreline.
+<br><br>
+Follow-Up **Choices** (if you investigate):<br>
+🧭 Search the marked shoreline.<br>
 📄 Crumple the soggy note.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You receive 5 Iron Pickaxe ⛏️. (🧭 Search the marked shoreline.)
-
-**Screenshots**:
-
-Date: April 18, 2025
-Shared By: HM 
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 18, 2025
+<br><br>
+**Shared By**: HM 
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Timmy’s Trouble
-
-**Description**:
+<br><br>
+**Description**:<br>
 Timmy swears he saw a Goblin stealing honey. Investigate the scene?
-
-**Choices**:
-✅ Investigate.
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
 🚶 Ignore it.
-
+<br><br>
 Follow-Up **Choices** (if you investigate):
-🐾 Follow the sticky trail.
+🐾 Follow the sticky trail.<br>
 🌾 Leave the hive be.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You receive 5 Honey 🍯. (🐾 Follow the sticky trail.)
-
-**Screenshots**:
- 
-Date: April 19, 2025
-Shared By: Digits
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 19, 2025
+<br><br>
+**Shared By**: Digits
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Treasure Dust
-
-**Description**:
+<br><br>
+**Description**:<br>
 Old Salty is sneezing—says it's the scent of nearby treasure. Follow his nose?
-
-**Choices**:
-✅ Investigate.
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
 🏃 Ignore it.
-
+<br><br>
 Follow-Up **Choices** (if you investigate):
-🪣 Dig where he points.
+🪣 Dig where he points.<br>
 🚫 Respect the boundaries.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You receive 5 Pumpkin Seed 🎃. (🪣 Dig where he points.)
-
-**Screenshots**:
-
-Date: April 30, 2025
-Shared By: Xemzie
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 30, 2025
+<br><br>
+**Shared By**: Xemzie
 ---
-
-**Quest Name**: Treasure Scroll
-
-**Description**:
+<br><br>
+**Quest Name**:<br> Treasure Scroll
+<br><br>
+**Description**:<br>
 A crumpled scroll blows into your path, possibly leading to treasure. Will you read it?
-
-**Choices**:
-📜 Read it.
+<br><br>
+**Choices**:<br>
+📜 Read it.<br>
 🔥 Burn it.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You uncover 5 Pickaxes ⛏️. (📜 Read it.)
-
-**Screenshots**:
-
-Date: April 11, 2025
-Shared By: Alucard 
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 11, 2025
+<br><br>
+**Shared By**: Alucard 
 --- 
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Tywin's Tax
-
-**Description**:
+<br><br>
+**Description**:<br>
  “All Bumpkins must pay a special crop tax!” shouts Tywin from the Kingdom gates. He demands payment... but something feels off.
-
-**Choices**:
+<br><br>
+**Choices**:<br>
 📦 Pay the tax.
 🧑‍🌾 Tell Raven.
-
-**Follow-Up Choices** (if you tell Raven):
-🧨 Sabotage his supply crate.
+<br><br>
+**Follow-Up Choices** (if you tell Raven):<br>
+🧨 Sabotage his supply crate.<br>
 😇 Do nothing.
-
-**Outcomes**:
-You sneak in and steal 10 Kale 🥬 from the Kingdom! (🧨 Sabotage his supply crate.)
+<br><br>
+**Outcomes**:<br>
+You sneak in and steal 10 Kale 🥬 from the Kingdom! (🧨 Sabotage his supply crate.)<br>
 You keep the peace and find 100 Coins 🪙 on your way home. (😇 Do nothing.)
-
-**Screenshots**:
-
-Date: April 23, 2025 and April 27, 2025
-Shared By: Roan and Alucard
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 23, 2025 and April 27, 2025
+<br><br>
+**Shared By**: Roan and Alucard
 ---
-
-**Quest Name**: Whispering Flowers
-
-**Description**:
+<br><br>
+**Quest Name**:<br> Whispering Flowers
+<br><br>
+**Description**:<br>
 Your sunflowers whisper secrets in the breeze. Lean in closer?
-
-**Choices**:
-👂 Listen closely.
+<br><br>
+**Choices**:<br>
+👂 Listen closely.<br>
 🏃 Ignore them.
-
-**Outcomes**:
-You hear of hidden treasures and gain 100 Coins 🪙. (👂 Listen closely.)
+<br><br>
+**Outcomes**:<br>
+You hear of hidden treasures and gain 100 Coins 🪙. (👂 Listen closely.)<br>
 You receive 50 Coins 🪙. (🚶 Ignore them.)
-
-**Screenshots**:
-
-Date: April 9, 2025 and April 14, 2025
-Shared By: Digits
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 9, 2025 and April 14, 2025
+<br><br>
+**Shared By**: Digits
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Victoria's Command
-
-**Description**:
+<br><br>
+**Description**:<br>
 Queen Victoria demands a tribute of rare flowers. Comply or resist?
-
-**Choices**:
-✅ Investigate.
+<br><br>
+**Choices**:<br>
+✅ Investigate.<br>
 🚶 Ignore it.
-
-Follow-Up **Choices** (if you investigate):
-🪻 Sneak into the garden.
+<br><br>
+Follow-Up **Choices** (if you investigate):<br>
+🪻 Sneak into the garden.<br>
 🫡 Bow out gracefully.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You receive 5 Iron ⛓️. (🪻 Sneak into the garden.)
-
-**Screenshots**:
-
-Date: April 21, 2025
-Shared By: Silver-wolf 
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 21, 2025
+<br><br>
+**Shared By**: Silver-wolf 
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Whispers in the Wind
-
-**Description**:
+<br><br>
+**Description**:<br>
 A strange wind blows through the Plaza, carrying soft whispers that only you seem to hear. Something is calling...
-
-**Choices**:
-🦻 Listen carefully.
+<br><br>
+**Choices**:<br>
+🦻 Listen carefully.<br>
 🔴 Block your ears.
-
+<br><br>
 **Follow-Up Choices** (if you listen):
-🌳 Dig beneath the tree.
+🌳 Dig beneath the tree.<br>
 🙉 Ignore the voices.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You receive 5 Celestine Seed ✨. (🌳 Dig beneath the tree.)
-
-**Screenshots**:
-
-Date: April 20, 2025
-Shared By: Silver-wolf 
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 20, 2025
+<br><br>
+**Shared By**: Silver-wolf 
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Wild Creature
-
-**Description**:
+<br><br>
+**Description**:<br>
 Cornwell spots a wild creature near the woods. Dangerous—or valuable?
-
-**Choices**:
-🧭 Investigate.
+<br><br>
+**Choices**:<br>
+🧭 Investigate.<br>
 🛡️ Stay safe.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You find a nest filled with 5 Gems 💎. (🧭 Investigate.)
-
-**Screenshots**:
-
-Date: April 10, 2025
-Shared By: Haesoo
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 10, 2025
+<br><br>
+**Shared By**: Haesoo
 ---
-
-**Quest Name**: 
+<br><br>
+**Quest Name**:<br> 
 Wishing Well
-
-**Description**:
+<br><br>
+**Description**:<br>
 An old wishing well glows faintly under the stars. Toss a coin and make a wish?
-
-**Choices**:
-🪙 Toss a coin.
+<br><br>
+**Choices**:<br>
+🪙 Toss a coin.<br>
 🚶 Walk past.
-
-**Outcomes**:
+<br><br>
+**Outcomes**:<br>
 You are showered with 200 Coins 🪙. (🪙 Toss a coin.)
-
-**Screenshots**:
-
-Date: April 10, 2025
-Shared By: Alucard 
+<br><br>
+**Screenshots**:<br>
+<br><br>
+**Date**: April 10, 2025
+<br><br>
+**Shared By**: Alucard 
 ---
