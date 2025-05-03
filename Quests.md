@@ -772,7 +772,9 @@ You receive 50 Coins 🪙. (🚫 Decline.)
 <br><br>
 ---
 <br><br>
-**Quest Name**:<br> Miranda's Song
+**Quest Name**:<br> 
+Miranda's Song
+<br><br>
 **Description**:<br>
 Miranda found a seashell that sings. Listen to it?
 <br><br>
