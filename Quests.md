@@ -776,6 +776,11 @@ You collect 5 Wood 🪵 safely. (🛡️ Walk around it.)
 <br><br>
 **Screenshots**:<br>
 <img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mushroomcircle.webp?raw=true"
+  alt="Mushroom Circle "
+  width="300"
+/>
+<img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mushroomcircle2.png?raw=true"
   alt="Mushroom Circle 2"
   width="300"
