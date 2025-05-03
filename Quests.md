@@ -335,7 +335,7 @@ Gambit offers a risky game with high rewards. Do you play?
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-Follow-Up **Choices** (if you investigate):
+Follow-Up **Choices** (if you investigate):<br>
 🕵️ Start the scavenger hunt.<br>
 🎭 Decline the risky bet.
 <br><br>
