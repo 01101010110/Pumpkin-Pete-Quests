@@ -419,6 +419,12 @@ You receive 5 Pickaxe ⛏️. (🤝 Accept trade.)
   alt="Goblin Trade2"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goblintrade3.webp?raw=true"
+  alt="Goblin Trade3"
+  width="300"
+/>
+
 <br><br>
 **Date**: April 11, 2025
 **Shared By**: Nathan9124 and Digits
