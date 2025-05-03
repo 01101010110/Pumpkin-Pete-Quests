@@ -458,6 +458,11 @@ You receive 50 Coins 🪙(🦈 Let it go.)
 <br><br>
 **Screenshots**:<br>
 <img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goldenfish.png?raw=true"
+  alt="Golden Fish"
+  width="300"
+/>
+<img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goldenfish2.png?raw=true"
   alt="Golden Fish 2"
   width="300"
