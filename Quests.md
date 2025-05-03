@@ -20,7 +20,11 @@ You receive 5 Stone 🪨. (🙈 Bury it again.)
   alt="Ancient Totem"
   width="300"
 />
-![ancienttotem2](https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ancienttotem2.png?raw=true)
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ancienttotem2.png?raw=true"
+  alt="Ancient Totem 2"
+  width="300"
+/>
 <br><br>
 **Date**: April 10, 2025, April 11,2025, and April 14 2025
 **Shared By**: Stewney, Korlithiel, and Wattholm
@@ -43,7 +47,11 @@ He rewards you with 5 Wild Mushrooms 🍄 and 50 Coins 🪙. (🎵 Give him mush
 You receive 50 Coins 🪙. (🤐 Ignore him.)
 <br><br>
 **Screenshots**:<br>
-![bardsvisit](https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/bardsvisit.png?raw=true)
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/bardsvisit.png?raw=true"
+  alt="Bard's Visit"
+  width="300"
+/>
 <br><br>
 **Date**: April 10, 2025 and April 11, 2025
 **Shared By**: Haesoo and  LaMouette 
@@ -69,6 +77,11 @@ Bert says a mushroom ring is a portal to another land. Try jumping in?
 You receive 5 Gold 🪙. (🧙‍♂️ Step into the ring.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/bertsportal.png?raw=true"
+  alt="Bert’s Portal"
+  width="300"
+/>
 <br><br>
 **Date**: April 19, 2025
 **Shared By**: Thebyber
@@ -91,6 +104,11 @@ You find 10 Gems 💎. (🏃 Chase it!)<br>
 You continue farming peacefully and receive 50 Coins. 🧑‍🌾 (Ignore it.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/chasetherainbow2.png?raw=true"
+  alt="Chase the Rainbow 2"
+  width="300"
+/>
 <br><br>
 **Date**: April 8, 2025 and April 19, 2025
 **Shared By**: Digits and DarwinJRG
@@ -113,6 +131,16 @@ You win and earn 5 Axes 🪓 and 50 Coins 🪙. (🏃‍♂️ Race the chicken.
 The chicken lays a rare Kale seed 🥬 (equivalent to 5 Kale). (🐥 Let it strut.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/chickenrace.png?raw=true"
+  alt="Chicken Race"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/chickenrace2.png?raw=true"
+  alt="Chicken Race 2"
+  width="300"
+/>
 <br><br>
 **Date**: April 12, 2025 and April 17, 2025
 **Shared By**: Thebyber and Tura
@@ -135,6 +163,11 @@ What is Cornwell’s profession in Sunflower Land?
 ✅ Correct! Cornwell is the Kingdom’s wise Librarian. You earn 100 Coins 🪙 and 5 Gems 💎. (📖 Librarian)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/cornwellscuriosity.png?raw=true"
+  alt="Cornwell’s Curiosity"
+  width="300"
+/>
 <br><br>
 **Date**: April 21, 2025
 **Shared By**: Kamen Rider Decade
@@ -161,6 +194,11 @@ You receive 10 Kale 🥬. (👨‍🌾 Investigate the answer.)<br>
 You receive 50 Coins 🌕. (📘 Close the riddle book.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/cornwellsriddle.png?raw=true"
+  alt="Cornwell’s Riddle"
+  width="300"
+/>
 <br><br>
 **Date**: April 20, 2025 and May 1, 2025
 **Shared By**: Silver-wolf and Digits
@@ -186,6 +224,11 @@ Follow-Up **Choices** (if you investigate):<br>
 You receive 10 Corn 🌽. (🔥 Touch the glowing rune.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/desertrune.png?raw=true"
+  alt="Desert Rune"
+  width="300"
+/>
 <br><br>
 **Date**: April 23, 2025
 **Shared By**: Alucard 
@@ -212,6 +255,11 @@ You receive 5 Stone 🪨. (🎣 Cast Finley's rod.)<br><br>
 You walk away, curious but cautious. You receive 50 Coins 🪙 (🐚 Sit by the shore instead.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/finleysfish.png?raw=true"
+  alt="Finley's Fish"
+  width="300"
+/>
 <br><br>
 **Date**: April 27, 2025 and April 30, 2025
 **Shared By**: TJ-Eo and Digits
@@ -234,6 +282,11 @@ The fox leaves a Kale leaf 🥬 behind. Gives 5 kale in game (🥬 Let it go.)<b
 It drops 5 Wild Mushrooms 🍄. (🦊 Shoo it away.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/foxtheft2.png?raw=true"
+  alt="Fox Theft 2"
+  width="300"
+/>
 <br><br>
 **Date**: April 10, 2025 and April 11, 2025
 **Shared By**: Digits and Farm22157bumpkin88
@@ -259,6 +312,11 @@ Follow-Up **Choices** (if you investigate):
 You receive 10 Pumpkin 🎃. (🧩 Decode the crop symbol.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ghostlyharvest.png?raw=true"
+  alt="Ghostly Harvest"
+  width="300"
+/>
 <br><br>
 **Date**: April 18, 2025
 **Shared By**: TJ-Eo
@@ -281,6 +339,17 @@ They gift you 15 Love Charms 💝. (💃 Join them.)<br>
 You find 5 Stone 🪨 nearby. (🚶 Stay away.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goblindanceparty.png?raw=true"
+  alt="Goblin Dance Party"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goblindanceparty2.png?raw=true"
+  alt="Goblin Dance Party 2"
+  width="300"
+/>
+
 <br><br>
 **Date**: April 10, 2025 and April 17, 2025
 **Shared By**: DDV and Silver-Wolf
