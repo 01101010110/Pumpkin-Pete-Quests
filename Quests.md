@@ -215,6 +215,11 @@ You receive 50 Coins 🌕. (📘 Close the riddle book.)
   alt="Cornwell’s Riddle"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/cornwellsriddle.webp?raw=true"
+  alt="Cornwell’s Riddle 2"
+  width="300"
+/>
 <br><br>
 **Date**: April 20, 2025 and May 1, 2025
 **Shared By**: Silver-wolf and Digits
