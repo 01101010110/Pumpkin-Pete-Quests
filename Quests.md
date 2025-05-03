@@ -372,6 +372,11 @@ A shady goblin whispers about a shortcut to wealth. Trust him?
 🚫 Ignore the goblin's tip. — Outcome not yet recorded.
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goblinscheme.png?raw=true"
+  alt="Goblin Scheme"
+  width="300"
+/>
 <br><br>
 **Date**: April 22, 2025 and April 26, 2025
 **Shared By**: Korlithiel
@@ -415,6 +420,11 @@ A shady Goblin offers to "upgrade" your tools. His grin is unsettling. Trust him
 You receive 5 Rods 🎣 and 5 Pickaxes ⛏️. (🛠️ Agree.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goblinupgrade.png?raw=true"
+  alt="Goblin Upgrade"
+  width="300"
+/>
 <br><br>
 **Date**: April 8, 2025
 **Shared By**: Kamen Rider Decade 
@@ -437,6 +447,11 @@ You catch the fish and find 15 Gems 💎.(🐠 Catch it!)
 You receive 50 Coins 🪙(🦈 Let it go.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goldenfish2.png?raw=true"
+  alt="Golden Fish 2"
+  width="300"
+/>
 <br><br>
 **Date**: April 10, 2025 and April 14, 2025
 **Shared By**: Silver-wolf, LaMouette, and DarwinJRG
@@ -462,6 +477,11 @@ Grimbly is preparing a Goblin feast but needs one last ingredient. Help him?
 You receive 7 Gem 💎. (🍄 Search behind the falls.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/grimblysfeast.png?raw=true"
+  alt="Grimbly's Feast"
+  width="300"
+/>
 <br><br>
 **Date**: April 20, 2025
 **Shared By**: LaMouette
@@ -484,6 +504,11 @@ Cornwell gifts you 5 Kale 🥬 and 10 Love Charms 💘. (🧑‍🌾 Help him.)<
 He grumbles and tosses a rotten tomato 🍅 at you. You receive 50 Coins. (🙈 Ignore him.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/helpoldcornwell.png?raw=true"
+  alt="Help Old Cornwell"
+  width="300"
+/>
 <br><br>
 **Date**: April 12, 2025 and April 30, 2025
 **Shared By**: Wattholm and Korlithiel
@@ -506,6 +531,21 @@ You walk away, curious but cautious.  You receive 50 Coins 🪙. (⚖️ Warn th
 You receive 10 Pumpkin 🎃. (👑Swap the crown!)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/jesterprank.png?raw=true"
+  alt="Jester’s Prank"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/jesterprank2.png?raw=true"
+  alt="Jester’s Prank 2"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/jesterprank3.png?raw=true"
+  alt="Jester’s Prank 3"
+  width="300"
+/>
 <br><br>
 **Date**: April 27, 2025 and April 30, 2025
 **Shared By**: akutogon, Fllorist20, and Korlithiel
@@ -528,6 +568,16 @@ You dig up a treasure chest full of 10 Gems 💎. (🗺️ Follow it.)<br>
 You find a few scattered Coins 🪙 (approx. 50 Coins). (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/lostpiratemap.png?raw=true"
+  alt="Lost Pirate Map"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/lostpiratemap2.png?raw=true"
+  alt="Lost Pirate Map 2"
+  width="300"
+/>
 <br><br>
 **Date**: April 10, 2025 and April 14, 2025
 **Shared By**: Thebyber and Digits
@@ -553,6 +603,11 @@ Cornwell misplaced a scroll that could reveal ancient truths. Help find it?
 You receive 5 Celestine Seed 🌱. (🛠️ Enter the hidden room.)
 <br><br>
 **Screenshots**:<br> 
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/lostscroll.png?raw=true"
+  alt="Lost Scroll"
+  width="300"
+/>
 <br><br>
 **Date**: April 18, 2025
 **Shared By**: Pawel 
@@ -575,6 +630,16 @@ You absorb its energy and gain 10 Axes 🪓. (🌫️ Dance in the storm.)<br>
 You receive 5 Wood 🪵. (🏠 Hide inside.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/magicstorm.png?raw=true"
+  alt="Magic Storm"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/magicstorm2.png?raw=true"
+  alt="Magic Storm 2"
+  width="300"
+/>
 <br><br>
 **Date**: April 11, 2025 and April 12, 2025
 **Shared By**: Thebyber and itsmegruba
@@ -597,6 +662,11 @@ You find 5 Axes 🪓! (🎁 Buy the box.)<br>
 You receive 50 Coins 🪙. (🚫 Decline.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/merchantmysterybox2.png?raw=true"
+  alt="Merchant’s Mystery Box 2"
+  width="300"
+/>
 <br><br>
 **Date**: April 10, 2025 and April 14, 2025
 **Shared By**: Haesoo and Tura
@@ -620,6 +690,11 @@ Miranda found a seashell that sings. Listen to it?
 You receive 5 Carrot Seed 🥕. (🎵 Follow the music trial.)
 <br><br>
 **Screenshots**:<br>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mirandasong.png?raw=true"
+  alt="Miranda's Song"
+  width="300"
+/>
 <br><br>
 **Date**: April 19, 2025
 **Shared By**: Nathan9124 
