@@ -105,6 +105,11 @@ You continue farming peacefully and receive 50 Coins. 🧑‍🌾 (Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/chasetherainbow.webp?raw=true"
+  alt="Chase the Rainbow"
+  width="300"
+/>
+<img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/chasetherainbow2.png?raw=true"
   alt="Chase the Rainbow 2"
   width="300"
