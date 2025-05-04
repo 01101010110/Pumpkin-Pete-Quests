@@ -1265,7 +1265,7 @@ You walk away, curious but cautious. You receive 50 Coins 🪙.
   width="300"
 />
 <img
-  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/victoriascommand2.png?raw=true"
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/victoriascommand2.webp?raw=true"
   alt="Victoria's Command"
   width="300"
 />
