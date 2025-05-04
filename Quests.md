@@ -881,7 +881,8 @@ Follow-Up **Choices** (if you investigate):<br>
 🎁 Choose the wooden box.
 <br><br>
 **Outcomes**:<br>
-Inside you find 3 Kale Seeds 🥬✨. (📦 Select the glowing package.)
+Inside you find 3 Kale Seeds 🥬✨. (📦 Select the glowing package.)<br>
+You discover 100 Coins 🪙 and some supplies(2 wood)! 🎁 Choose the wooden box.
 <br><br>
 **Screenshots**:<br>
 <img
@@ -889,9 +890,19 @@ Inside you find 3 Kale Seeds 🥬✨. (📦 Select the glowing package.)
   alt="Mysterious Merchant"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mysteriousmerchant2.webp?raw=true"
+  alt="Mysterious Merchant2"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mysteriousmerchant3.webp?raw=true"
+  alt="Mysterious Merchant3"
+  width="300"
+/>
 <br><br>
-**Date**: April 20, 2025
-**Shared By**: Digits 
+**Date**: April 20, 2025 and May 4, 2025
+**Shared By**: Digits and Gooner8733
 
 <br><br>
 ---
@@ -1244,7 +1255,8 @@ Follow-Up **Choices** (if you investigate):<br>
 🫡 Bow out gracefully.
 <br><br>
 **Outcomes**:<br>
-You receive 5 Iron ⛓️. (🪻 Sneak into the garden.)
+You receive 5 Iron ⛓️. (🪻 Sneak into the garden.)<br>
+You walk away, curious but cautious. You receive 50 Coins 🪙.
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1252,9 +1264,15 @@ You receive 5 Iron ⛓️. (🪻 Sneak into the garden.)
   alt="Victoria's Command"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/victoriascommand2.png?raw=true"
+  alt="Victoria's Command"
+  width="300"
+/>
+
 <br><br>
-**Date**: April 21, 2025
-**Shared By**: Silver-wolf
+**Date**: April 21, 2025 and May 4, 2025
+**Shared By**: Silver-wolf and Stewney
 
 <br><br> 
 ---
