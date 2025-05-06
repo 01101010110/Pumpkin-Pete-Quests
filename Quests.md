@@ -650,10 +650,15 @@ Jester’s Prank
 The Jester reveals his plan: he's going to replace Victoria's crown with a fake one during the royal procession. He says it's just a harmless prank, but you know Victoria doesn't have a sense of humor. He offers you a share of the reward if you help. Will you participate?
 <br><br>
 **Choices**:<br>
+✅ Investigate.<br>
+🚶 Ignore it.
+<br><br>
+**Follow-Up Choices** (if you investigate:<br>
 👑 Swap the crown!<br>
 ⚖️ Warn the queen.
 <br><br>
 **Outcomes**:<br>
+You receive 5 Gold 🪙. (🚶 Ignore it.)
 You walk away, curious but cautious.  You receive 50 Coins 🪙. (⚖️ Warn the queen)<br>
 You receive 10 Pumpkin 🎃. (👑Swap the crown!)
 <br><br>
@@ -670,6 +675,11 @@ You receive 10 Pumpkin 🎃. (👑Swap the crown!)
 />
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/jesterprank3.png?raw=true"
+  alt="Jester’s Prank 3"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/jestersprank4.webp?raw=true"
   alt="Jester’s Prank 3"
   width="300"
 />
