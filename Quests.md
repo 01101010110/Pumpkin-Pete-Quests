@@ -87,7 +87,7 @@ Petro and Corale are arguing over a washed-up relic. Help settle the dispute?
 You receive 5 Kale Seed 🥬. (🗺️ Decode the vase’s map.)
 <br><br>
 **Screenshots**:<br>
-<img src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/beachbanter.webp?raw=true" alt="Beach Banter" width="300"/>
+<img src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/beachbanter.webp?raw=true" alt="Beach Banter" width="200"/>
 <br><br>
 **Date**: May 5, 2025
 **Shared By**: Korlithiel
