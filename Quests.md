@@ -658,7 +658,7 @@ The Jester reveals his plan: he's going to replace Victoria's crown with a fake 
 ⚖️ Warn the queen.
 <br><br>
 **Outcomes**:<br>
-You receive 5 Gold 🪙. (🚶 Ignore it.)
+You receive 5 Gold 🪙. (🚶 Ignore it.)<br>
 You walk away, curious but cautious.  You receive 50 Coins 🪙. (⚖️ Warn the queen)<br>
 You receive 10 Pumpkin 🎃. (👑Swap the crown!)
 <br><br>
