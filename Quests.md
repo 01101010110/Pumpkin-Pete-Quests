@@ -853,7 +853,7 @@ Moonlight Crops
 Your crops glisten under the full moon. Old tales say moon-harvests bring unusual yields. What will you do?
 <br><br>
 **Choices**:<br>
-🌾 Harvest them.
+🌾 Harvest them.<br>
 🐑 Wait till morning.
 <br><br>
 **Outcomes**:<br>
