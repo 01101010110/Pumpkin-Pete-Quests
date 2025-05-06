@@ -1093,12 +1093,18 @@ Who is Raven secretly related to?
 🧝 A Moonseeker
 <br><br>
 **Outcomes**:<br>
-✅ Correct! Raven is secretly the Blacksmith’s daughter. You earn 100 Coins 🪙 and 5 Gems 💎. (⚒️ The Blacksmith)
+✅ Correct! Raven is secretly the Blacksmith’s daughter. You earn 100 Coins 🪙 and 5 Gems 💎. (⚒️ The Blacksmith)<br>
+❌ Spooky, but incorrect! You receive 5 Love Charms 💘. (🧝 A Moonseeker)
 <br><br>
 **Screenshots**:<br>
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ravensecret.png?raw=true"
   alt="Raven’s Secret"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ravenssecret.png?raw=true"
+  alt="Raven’s Secret 2"
   width="300"
 />
 <br><br>
