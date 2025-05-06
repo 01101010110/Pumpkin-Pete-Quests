@@ -69,27 +69,28 @@ You receive 50 Coins 🪙. (🤐 Ignore him.)
 
 <br><br>
 ---
-Quest Name: Beach Banter
+**Quest Name:** <br>
+Beach Banter
 <br><br>
-Description:<br>
+**Description**:<br>
 Petro and Corale are arguing over a washed-up relic. Help settle the dispute?
 <br><br>
-Choices:<br>
+**Choices**:<br>
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-Follow-Up Choices (if you investigate):<br>
+**Follow-Up Choices** (if you investigate):<br>
 🗺️ Decode the vase’s map.<br>
 🌊 Let the waves claim it.
 <br><br>
-Outcomes:<br>
+**Outcomes**:<br>
 You receive 5 Kale Seed 🥬. (🗺️ Decode the vase’s map.)
 <br><br>
-Screenshots:<br>
+**Screenshots**:<br>
 <img src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/beachbanter.webp?raw=true" alt="Beach Banter" width="300"/>
 <br><br>
-Date: May 5, 2025
-Shared By: Korlithiel
+**Date**: May 5, 2025
+**Shared By**: Korlithiel
 
 <br><br>
 ---
