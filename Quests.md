@@ -684,8 +684,8 @@ You receive 10 Pumpkin 🎃. (👑Swap the crown!)
   width="300"
 />
 <br><br>
-**Date**: April 27, 2025 and April 30, 2025
-**Shared By**: akutogon, Fllorist20, and Korlithiel
+**Date**: April 27, 2025, April 30, 2025, and May 6,2025
+**Shared By**: akutogon, Fllorist20, and Korlithiel (Twice)
 
 <br><br>
 ---
