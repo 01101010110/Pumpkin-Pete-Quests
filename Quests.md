@@ -1052,8 +1052,8 @@ Betty says the plaza is whispering secrets at night. Investigate the sound?
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-Follow-Up **Choices** (if you investigate):
-🛠️ Uncover the fountain's secret.
+Follow-Up **Choices** (if you investigate):<br>
+🛠️ Uncover the fountain's secret.<br>
 🚶 Walk into the night.
 <br><br>
 **Outcomes**:<br>
