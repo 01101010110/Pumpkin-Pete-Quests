@@ -429,8 +429,10 @@ A shady goblin whispers about a shortcut to wealth. Trust him?
 🚶 Ignore it.
 <br><br>
 **Outcomes**:<br>
-💰 Enter the mountain lair. — You receive 5 Corn Seed 🌽.<br>
-🚫 Ignore the goblin's tip. — Outcome not yet recorded.
+You receive 5 Corn Seed 🌽. 💰 Enter the mountain lair. <br>
+You walk away, curious but cautious. You receive 50 Coins 🌕. (🚫 Ignore the goblin's tip.)
+
+
 <br><br>
 **Screenshots**:<br>
 <img
@@ -438,9 +440,14 @@ A shady goblin whispers about a shortcut to wealth. Trust him?
   alt="Goblin Scheme"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goblinscheme2.png?raw=true"
+  alt="Goblin Scheme 2"
+  width="300"
+/>
 <br><br>
-**Date**: April 22, 2025 and April 26, 2025
-**Shared By**: Korlithiel
+**Date**: April 22, 2025 and May 5, 2025
+**Shared By**: Korlithiel and Akutogon
 
 <br><br>
 ---
