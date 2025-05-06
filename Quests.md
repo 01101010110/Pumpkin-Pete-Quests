@@ -966,12 +966,12 @@ Pete tosses you some Coins 🌕. (50 coins) (🧑‍🌾 Decline.)
   width="300"
 />
 <img
-  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/petefishingchallenge2.webp?raw=true"
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/petesfishingchallenge2.webp?raw=true"
   alt="Pete’s Fishing Challenge2"
   width="300"
 />
 <img
-  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/petefishingchallenge3.webp?raw=true"
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/petesfishingchallenge3.webp?raw=true"
   alt="Pete’s Fishing Challenge3"
   width="300"
 />
