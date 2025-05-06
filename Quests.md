@@ -976,8 +976,8 @@ Pete tosses you some Coins 🌕. (50 coins) (🧑‍🌾 Decline.)
   width="300"
 />
 <br><br>
-**Date**: April 11, 2025
-**Shared By**: Farm22157 bumpkin88
+**Date**: April 11, 2025 and May 4, 2025
+**Shared By**: Farm22157bumpkin88 and Digits
 
 <br><br> 
 ---
