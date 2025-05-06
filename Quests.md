@@ -297,7 +297,7 @@ Finley saw a huge shadow in the ocean. Try to catch it?
 🐚 Sit by the shore instead.
 <br><br>
 **Outcomes**:<br>
-You receive 5 Stone 🪨. (🎣 Cast Finley's rod.)<br><br>
+You receive 5 Stone 🪨. (🎣 Cast Finley's rod.)<br>
 You walk away, curious but cautious. You receive 50 Coins 🪙 (🐚 Sit by the shore instead.)
 <br><br>
 **Screenshots**:<br>
