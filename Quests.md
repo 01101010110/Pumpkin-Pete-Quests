@@ -956,12 +956,23 @@ Pete boasts about his fishing skills by the lake. He challenges you to a contest
 🧑‍🌾 Decline.
 <br><br>
 **Outcomes**:<br>
-You win and score 5 Rods 🎣. (🎣 Compete!)
+You win and score 5 Rods 🎣. (🎣 Compete!)<br>
+Pete tosses you some Coins 🌕. (50 coins) (🧑‍🌾 Decline.)
 <br><br>
 **Screenshots**:<br>
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/petefishingchallenge.png?raw=true"
   alt="Pete’s Fishing Challenge"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/petefishingchallenge2.webp?raw=true"
+  alt="Pete’s Fishing Challenge2"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/petefishingchallenge3.webp?raw=true"
+  alt="Pete’s Fishing Challenge3"
   width="300"
 />
 <br><br>
