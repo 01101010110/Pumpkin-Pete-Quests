@@ -431,8 +431,6 @@ A shady goblin whispers about a shortcut to wealth. Trust him?
 **Outcomes**:<br>
 You receive 5 Corn Seed 🌽. 💰 Enter the mountain lair. <br>
 You walk away, curious but cautious. You receive 50 Coins 🌕. (🚫 Ignore the goblin's tip.)
-
-
 <br><br>
 **Screenshots**:<br>
 <img
@@ -441,7 +439,7 @@ You walk away, curious but cautious. You receive 50 Coins 🌕. (🚫 Ignore the
   width="300"
 />
 <img
-  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goblinscheme2.png?raw=true"
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goblinscheme2.webp?raw=true"
   alt="Goblin Scheme 2"
   width="300"
 />
