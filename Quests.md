@@ -428,8 +428,8 @@ A shady goblin whispers about a shortcut to wealth. Trust him? 💎 The goblin l
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-Follow-Up Choices (if you investigate):
-💰 Enter the mountain lair.
+Follow-Up Choices (if you investigate):<br>
+💰 Enter the mountain lair.<br>
 🚫 Ignore the goblin's tip.
 <br><br>
 **Outcomes**:<br>
