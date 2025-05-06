@@ -422,14 +422,18 @@ You find 5 Stone 🪨 nearby. (🚶 Stay away.)
 Goblin Scheme
 <br><br>
 **Description**:<br>
-A shady goblin whispers about a shortcut to wealth. Trust him?
+A shady goblin whispers about a shortcut to wealth. Trust him? 💎 The goblin leads you to a hidden entrance in the mountains. He claims there’s a vein of precious gems inside, but you’ll need to be quick before the mountain guardians return. Will you enter?
 <br><br>
 **Choices**:<br>
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
+Follow-Up Choices (if you investigate):
+💰 Enter the mountain lair.
+🚫 Ignore the goblin's tip.
+<br><br>
 **Outcomes**:<br>
-You receive 5 Corn Seed 🌽. 💰 Enter the mountain lair. <br>
+You receive 5 Corn Seed 🌽. (💰 Enter the mountain lair). <br>
 You walk away, curious but cautious. You receive 50 Coins 🌕. (🚫 Ignore the goblin's tip.)
 <br><br>
 **Screenshots**:<br>
