@@ -1238,7 +1238,8 @@ Follow-Up **Choices** (if you investigate):
 🚫 Respect the boundaries.
 <br><br>
 **Outcomes**:<br>
-You receive 5 Pumpkin Seed 🎃. (🪣 Dig where he points.)
+You receive 5 Pumpkin Seed 🎃. (🪣 Dig where he points.)<br>
+You walk away and find a few coins. You receive 3 Yellow Pansy 🌼. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1246,9 +1247,14 @@ You receive 5 Pumpkin Seed 🎃. (🪣 Dig where he points.)
   alt="Treasure Dust"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/treasuredust2.webp?raw=true"
+  alt="Treasure Dust2"
+  width="300"
+/>
 <br><br>
-**Date**: April 30, 2025
-**Shared By**: Xemzie
+**Date**: April 30, 2025 and May 9, 2025
+**Shared By**: Xemzie and Ernesto
 
 <br><br>
 ---
