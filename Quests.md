@@ -1309,7 +1309,7 @@ Tywin's Tax
  “All Bumpkins must pay a special crop tax!” shouts Tywin from the Kingdom gates. He demands payment... but something feels off.
 <br><br>
 **Choices**:<br>
-📦 Pay the tax.
+📦 Pay the tax.<br>
 🧑‍🌾 Tell Raven.
 <br><br>
 **Follow-Up Choices** (if you tell Raven):<br>
@@ -1318,7 +1318,8 @@ Tywin's Tax
 <br><br>
 **Outcomes**:<br>
 You sneak in and steal 10 Kale 🥬 from the Kingdom! (🧨 Sabotage his supply crate.)<br>
-You keep the peace and find 100 Coins 🪙 on your way home. (😇 Do nothing.)
+You keep the peace and find 100 Coins 🪙 on your way home. (😇 Do nothing.)<br>
+You lose some produce but Tywin tosses you 3 Gems 💎 as a reward for your 'loyalty.' You receive 3 Gem 💎. (📦 Pay the tax.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1331,9 +1332,14 @@ You keep the peace and find 100 Coins 🪙 on your way home. (😇 Do nothing.)
   alt="Tywin's Tax 2"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/tywinstax3.webp?raw=true"
+  alt="Tywin's Tax 3"
+  width="300"
+/>
 <br><br>
-**Date**: April 23, 2025 and April 27, 2025
-**Shared By**: Roan and Alucard
+**Date**: April 23, 2025, April 27, 2025, and May 11, 2025
+**Shared By**: Roan, Alucard, and Hira
 
 <br><br>
 ---
