@@ -390,7 +390,7 @@ Strange crops have sprouted overnight, glowing under the moonlight. Investigate?
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-Follow-Up **Choices** (if you investigate):
+Follow-Up **Choices** (if you investigate):<br>
 🧩 Decode the crop symbol.<br>
 🌑 Step away from the glow.
 <br><br>
