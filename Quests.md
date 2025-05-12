@@ -395,7 +395,8 @@ Follow-Up **Choices** (if you investigate):
 🌑 Step away from the glow.
 <br><br>
 **Outcomes**:<br>
-You receive 10 Pumpkin 🎃. (🧩 Decode the crop symbol.)
+You receive 10 Pumpkin 🎃. (🧩 Decode the crop symbol.)<br>
+You walk away, curious but cautious. You receive 50 Coins 🪙. (🌑 Step away from the glow.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -403,9 +404,14 @@ You receive 10 Pumpkin 🎃. (🧩 Decode the crop symbol.)
   alt="Ghostly Harvest"
   width="200"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ghostlyharvest2.webp?raw=true"
+  alt="Ghostly Harvest2"
+  width="200"
+/>
 <br><br>
-**Date**: April 18, 2025
-**Shared By**: TJ-Eo
+**Date**: April 18, 2025 and May 11, 2025
+**Shared By**: TJ-Eo and Stewney
 
 <br><br>
 ---
