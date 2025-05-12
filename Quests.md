@@ -1233,7 +1233,7 @@ Old Salty is sneezing—says it's the scent of nearby treasure. Follow his nose?
 ✅ Investigate.<br>
 🏃 Ignore it.
 <br><br>
-Follow-Up **Choices** (if you investigate):
+Follow-Up **Choices** (if you investigate):<br>
 🪣 Dig where he points.<br>
 🚫 Respect the boundaries.
 <br><br>
