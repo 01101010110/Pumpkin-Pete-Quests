@@ -1101,7 +1101,7 @@ Who is Raven secretly related to?
 **Outcomes**:<br>
 ✅ Correct! Raven is secretly the Blacksmith’s daughter. You earn 100 Coins 🪙 and 5 Gems 💎. (⚒️ The Blacksmith)<br>
 ❌ Spooky, but incorrect! You receive 5 Love Charms 💘. (🧝 A Moonseeker)<br>
-❌ Wrong guess! It’s not the Queen. (👸 Queen Victoria)
+❌ Wrong guess! It’s not the Queen. 5 Love Charms 💘. (👸 Queen Victoria)
 <br><br>
 **Screenshots**:<br>
 <img
