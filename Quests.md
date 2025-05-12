@@ -839,7 +839,8 @@ Miranda found a seashell that sings. Listen to it?
 ❓ (Awaiting alternative path confirmation)
 <br><br>
 **Outcomes**:<br>
-You receive 5 Carrot Seed 🥕. (🎵 Follow the music trial.)
+You receive 5 Carrot Seed 🥕. (🎵 Follow the music trial.)<br>
+You receive 50 Coins 🪙. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -847,9 +848,15 @@ You receive 5 Carrot Seed 🥕. (🎵 Follow the music trial.)
   alt="Miranda's Song"
   width="300"
 />
+
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mirandassong2.webp?raw=true"
+  alt="Miranda's Song2"
+  width="300"
+/>
 <br><br>
-**Date**: April 19, 2025
-**Shared By**: Nathan9124 
+**Date**: April 19, 2025 and May 12, 2025
+**Shared By**: Nathan9124 and Digits
 
 <br><br>
 ---
