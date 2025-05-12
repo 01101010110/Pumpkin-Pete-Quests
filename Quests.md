@@ -1100,7 +1100,8 @@ Who is Raven secretly related to?
 <br><br>
 **Outcomes**:<br>
 ✅ Correct! Raven is secretly the Blacksmith’s daughter. You earn 100 Coins 🪙 and 5 Gems 💎. (⚒️ The Blacksmith)<br>
-❌ Spooky, but incorrect! You receive 5 Love Charms 💘. (🧝 A Moonseeker)
+❌ Spooky, but incorrect! You receive 5 Love Charms 💘. (🧝 A Moonseeker)<br>
+❌ Wrong guess! It’s not the Queen. (👸 Queen Victoria)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1113,9 +1114,21 @@ Who is Raven secretly related to?
   alt="Raven’s Secret 2"
   width="300"
 />
+
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ravenssecret3.webp?raw=true"
+  alt="Raven’s Secret 3"
+  width="300"
+/>
+
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ravenssecret4.webp?raw=true"
+  alt="Raven’s Secret 4"
+  width="300"
+/>
 <br><br>
-**Date**: April 21, 2025 and May 6, 2025
-**Shared By**: Alisa and Kanzuki
+**Date**: April 21, 2025, May 6, 2025, and May 9. 2025
+**Shared By**: Alisa, Kanzuki, and Digits
 
 <br><br>
 ---
