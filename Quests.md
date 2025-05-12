@@ -1140,7 +1140,7 @@ Raven's Vision
 Raven speaks of a vision involving a rare flower and a lunar event. Search for it?
 <br><br>
 **Choices**:<br>
-✅ Investigate.
+✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
 Follow-Up **Choices** (if you investigate):<br>
@@ -1148,7 +1148,8 @@ Follow-Up **Choices** (if you investigate):<br>
 🏳️ Skip the lunar ritual.
 <br><br>
 **Outcomes**:<br>
-You receive 8 Gem 💎. (🌕 Wait beneath the moonlight.)
+You receive 8 Gem 💎. (🌕 Wait beneath the moonlight.)<br>
+You walk away and find a few coins. You receive 3 Red Pansy 🌺. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1156,9 +1157,14 @@ You receive 8 Gem 💎. (🌕 Wait beneath the moonlight.)
   alt="Raven's Vision"
   width="300"
 />
+**<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ravensvision2.webp?raw=true"
+  alt="Raven's Vision2"
+  width="300"
+/>**
 <br><br> 
-**Date**: April 26, 2025
-**Shared By**: Korlithiel 
+**Date**: April 26, 2025 and May 10, 2025
+**Shared By**: Korlithiel and Digits
 
 <br><br>
 ---
