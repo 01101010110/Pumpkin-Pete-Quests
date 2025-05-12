@@ -963,7 +963,7 @@ A bubbling well behind the plaza is glowing. Drop something in? As you approach 
 <br><br>
 **Follow-Up Choices** (if you investigate):<br>
 💎 Drop your treasured item.<br>
-🌑 Keep your belongings.<br>
+🌑 Keep your belongings.
 <br><br>
 **Outcomes**:<br>
 You uncover something valuable and receive 5 Stone 🪨. (💎 Drop your treasured item.)<br>
