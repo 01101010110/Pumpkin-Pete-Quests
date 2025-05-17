@@ -1214,7 +1214,7 @@ A mysterious bottle washed ashore. It holds an old, crumpled note. Open it?
 <br><br>
 Follow-Up **Choices** (if you investigate):<br>
 🧭 Search the marked shoreline.<br>
-📄 Crumple the soggy note.<br>
+📄 Crumple the soggy note.
 <br><br>
 **Outcomes**:<br>
 You receive 5 Iron Pickaxe ⛏️. (🧭 Search the marked shoreline.)<br>
