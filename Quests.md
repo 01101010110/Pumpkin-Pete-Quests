@@ -373,7 +373,8 @@ Follow-Up **Choices** (if you investigate):<br>
 🎭 Decline the risky bet.
 <br><br>
 **Outcomes**:<br>
-You uncover something valuable and receive 5 Wheat Seed. (🕵️ Start the scavenger hunt.)
+You uncover something valuable and receive 5 Wheat Seed. (🕵️ Start the scavenger hunt.)<br>
+You walk away, curious but cautious. You receive 50 Coins 🪙. (🎭 Decline the risky bet.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -381,9 +382,14 @@ You uncover something valuable and receive 5 Wheat Seed. (🕵️ Start the scav
   alt="Gambit's Bet"
   width="200"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/gambitsbet2.webp?raw=true"
+  alt="Gambit's Bet"
+  width="200"
+/>
 <br><br>
-**Date**: May 2, 2025
-**Shared By**: Xemzie
+**Date**: May 2, 2025 and May 14, 2025
+**Shared By**: Xemzie and Akutogon
 
 <br><br>
 ---
