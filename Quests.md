@@ -404,7 +404,8 @@ Follow-Up **Choices** (if you investigate):<br>
 <br><br>
 **Outcomes**:<br>
 You receive 10 Pumpkin 🎃. (🧩 Decode the crop symbol.)<br>
-You walk away, curious but cautious. You receive 50 Coins 🪙. (🌑 Step away from the glow.)
+You walk away, curious but cautious. You receive 50 Coins 🪙. (🌑 Step away from the glow.)<br>
+You receive 5 Iron ⛓️. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -417,9 +418,14 @@ You walk away, curious but cautious. You receive 50 Coins 🪙. (🌑 Step away 
   alt="Ghostly Harvest2"
   width="200"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ghostlyharvest3.webp?raw=true"
+  alt="Ghostly Harvest3"
+  width="200"
+/>
 <br><br>
-**Date**: April 18, 2025 and May 11, 2025
-**Shared By**: TJ-Eo and Stewney
+**Date**: April 18, 2025, May 11, 2025, and May 14, 2025
+**Shared By**: TJ-Eo, Stewney, and Tura
 
 <br><br>
 ---
