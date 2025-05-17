@@ -1513,7 +1513,8 @@ An old wishing well glows faintly under the stars. Toss a coin and make a wish?
 🚶 Walk past.
 <br><br>
 **Outcomes**:<br>
-You are showered with 200 Coins 🪙. (🪙 Toss a coin.)
+You are showered with 200 Coins 🪙. (🪙 Toss a coin.)<br>
+You receive 50 Coins 🪙. (🚶 Walk past.)
 <br><br>
 **Screenshots**:<br>
 <img
