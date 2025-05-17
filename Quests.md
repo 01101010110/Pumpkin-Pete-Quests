@@ -300,7 +300,8 @@ Finley saw a huge shadow in the ocean. Try to catch it?
 <br><br>
 **Outcomes**:<br>
 You receive 5 Stone 🪨. (🎣 Cast Finley's rod.)<br>
-You walk away, curious but cautious. You receive 50 Coins 🪙 (🐚 Sit by the shore instead.)
+You walk away, curious but cautious. You receive 50 Coins 🪙 (🐚 Sit by the shore instead.)<br>
+You receive 3 Purple Pansy 🟣. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -313,9 +314,14 @@ You walk away, curious but cautious. You receive 50 Coins 🪙 (🐚 Sit by the 
   alt="Finley's Fish 2"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/finleysfish3.webp?raw=true"
+  alt="Finley's Fish 3"
+  width="300"
+/>
 <br><br>
-**Date**: April 27, 2025 and April 30, 2025
-**Shared By**: TJ-Eo and Digits
+**Date**: April 27, 2025, April 30, 2025, and May 14, 2025
+**Shared By**: TJ-Eo, Digits, and Hira
 
 <br><br>
 ---
