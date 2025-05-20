@@ -112,7 +112,8 @@ Bert says a mushroom ring is a portal to another land. Try jumping in?
 🧿 Back away slowly.
 <br><br>
 **Outcomes**:<br>
-You receive 5 Gold 🪙. (🧙‍♂️ Step into the ring.)
+You receive 5 Gold 🪙. (🧙‍♂️ Step into the ring.)<br>
+You receive 3 Red Pansy 🌺. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -120,9 +121,14 @@ You receive 5 Gold 🪙. (🧙‍♂️ Step into the ring.)
   alt="Bert’s Portal"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/bertsportal2.webp?raw=true"
+  alt="Bert’s Portal"
+  width="300"
+/>
 <br><br>
-**Date**: April 19, 2025
-**Shared By**: Thebyber
+**Date**: April 19, 2025 and May 17, 2025
+**Shared By**: Thebyber and UncleR
  
 <br><br>
 ---
