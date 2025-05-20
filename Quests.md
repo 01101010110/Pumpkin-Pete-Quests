@@ -1145,7 +1145,8 @@ Follow-Up **Choices** (if you investigate):<br>
 🚶 Walk into the night.
 <br><br>
 **Outcomes**:<br>
-You receive 10 Beetroot 🥬. (🛠️ Uncover the fountain's secret.)
+You receive 10 Beetroot 🥬. (🛠️ Uncover the fountain's secret.)<br>
+You receive 50 Coins 🌕. (🌃 Walk into the night.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1153,9 +1154,14 @@ You receive 10 Beetroot 🥬. (🛠️ Uncover the fountain's secret.)
   alt="Plaza Whispers"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/plazawhispers2.webp?raw=true"
+  alt="Plaza Whispers2"
+  width="300"
+/>
 <br><br>
-**Date**: April 18, 2025
-**Shared By**: xemzie 
+**Date**: April 18, 2025 and May 20, 2025
+**Shared By**: Xemzie and Stewney
 
 <br><br>
 ---
