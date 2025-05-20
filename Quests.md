@@ -145,7 +145,7 @@ A dazzling rainbow arcs across Sunflower Land. It’s said treasures lie at its 
 <br><br>
 **Outcomes**:<br>
 You find 10 Gems 💎. (🏃 Chase it!)<br>
-You continue farming peacefully and receive 50 Coins. 🧑‍🌾 (Ignore it.)
+You continue farming peacefully and receive 50 Coins. (🧑‍🌾 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
