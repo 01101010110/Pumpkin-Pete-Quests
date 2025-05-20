@@ -270,7 +270,7 @@ A glowing rune was found in the desert. Touch it or report it?
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-Follow-Up **Choices** (if you investigate):<br>
+**Follow-Up Choices** (if you investigate):<br>
 🔥 Touch the glowing rune.<br>
 🧘 Leave it undisturbed.
 <br><br>
@@ -374,7 +374,7 @@ Gambit offers a risky game with high rewards. Do you play?
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-Follow-Up **Choices** (if you investigate):<br>
+**Follow-Up Choices** (if you investigate):<br>
 🕵️ Start the scavenger hunt.<br>
 🎭 Decline the risky bet.
 <br><br>
@@ -410,7 +410,7 @@ Strange crops have sprouted overnight, glowing under the moonlight. Investigate?
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-Follow-Up **Choices** (if you investigate):<br>
+**Follow-Up Choices** (if you investigate):<br>
 🧩 Decode the crop symbol.<br>
 🌑 Step away from the glow.
 <br><br>
@@ -485,7 +485,7 @@ A shady goblin whispers about a shortcut to wealth. Trust him? 💎 The goblin l
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-Follow-Up Choices (if you investigate):<br>
+**Follow-Up Choices** (if you investigate):<br>
 💰 Enter the mountain lair.<br>
 🚫 Ignore the goblin's tip.
 <br><br>
@@ -984,7 +984,7 @@ A cloaked figure appears at the edge of your farm, offering rare goods for an un
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-Follow-Up **Choices** (if you investigate):<br>
+**Follow-Up Choices** (if you investigate):<br>
 📦 Select the glowing package.<br>
 🎁 Choose the wooden box.
 <br><br>
@@ -1105,7 +1105,7 @@ The plaza is setting up a parade, but Pete’s float is broken! Help him fix it?
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-Follow-Up **Choices** (if you investigate):<br>
+**Follow-Up Choices** (if you investigate):<br>
 🔍 Scour the dusty barn.<br>
 🚫 Leave the float unfinished.
 <br><br>
@@ -1147,7 +1147,7 @@ Betty says the plaza is whispering secrets at night. Investigate the sound?
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-Follow-Up **Choices** (if you investigate):<br>
+**Follow-Up Choices** (if you investigate):<br>
 🛠️ Uncover the fountain's secret.<br>
 🚶 Walk into the night.
 <br><br>
@@ -1228,7 +1228,7 @@ Raven speaks of a vision involving a rare flower and a lunar event. Search for i
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-Follow-Up **Choices** (if you investigate):<br>
+**Follow-Up Choices** (if you investigate):<br>
 🌕 Wait beneath the moonlight.<br>
 🏳️ Skip the lunar ritual.
 <br><br>
@@ -1264,7 +1264,7 @@ A mysterious bottle washed ashore. It holds an old, crumpled note. Open it?
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-Follow-Up **Choices** (if you investigate):<br>
+**Follow-Up Choices** (if you investigate):<br>
 🧭 Search the marked shoreline.<br>
 📄 Crumple the soggy note.
 <br><br>
@@ -1300,7 +1300,7 @@ Timmy swears he saw a Goblin stealing honey. Investigate the scene?
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-Follow-Up **Choices** (if you investigate):
+**Follow-Up Choices** (if you investigate):
 🐾 Follow the sticky trail.<br>
 🌾 Leave the hive be.
 <br><br>
@@ -1330,7 +1330,7 @@ Old Salty is sneezing—says it's the scent of nearby treasure. Follow his nose?
 ✅ Investigate.<br>
 🏃 Ignore it.
 <br><br>
-Follow-Up **Choices** (if you investigate):<br>
+**Follow-Up Choices** (if you investigate):<br>
 🪣 Dig where he points.<br>
 🚫 Respect the boundaries.
 <br><br>
@@ -1439,7 +1439,7 @@ Queen Victoria demands a tribute of rare flowers. Comply or resist?
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-Follow-Up **Choices** (if you investigate):<br>
+**Follow-Up Choices** (if you investigate):<br>
 🪻 Sneak into the garden.<br>
 🫡 Bow out gracefully.
 <br><br>
@@ -1502,7 +1502,7 @@ A strange wind blows through the Plaza, carrying soft whispers that only you see
 🦻 Listen carefully.<br>
 🔴 Block your ears.
 <br><br>
-**Choices**:<br>
+**Follow-Up Choices** (if you investigate):<br>
 🌳 Dig beneath the tree.<br>
 🙉 Ignore the voices.
 <br><br>
