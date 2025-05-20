@@ -880,11 +880,12 @@ Miranda found a seashell that sings. Listen to it?
 <br><br>
 **Follow-Up Choices** (if you investigate):<br>
 🎵 Follow the music trial.<br>
-❓ (Awaiting alternative path confirmation)
+🙉 Ignore the melody.
 <br><br>
 **Outcomes**:<br>
 You receive 5 Carrot Seed 🥕. (🎵 Follow the music trial.)<br>
-You receive 50 Coins 🪙. (🚶 Ignore it.)
+You receive 50 Coins 🪙. (🚶 Ignore it.)<br>
+You receive 50 Coins 🌕. (🙉 Ignore the melody.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -892,15 +893,19 @@ You receive 50 Coins 🪙. (🚶 Ignore it.)
   alt="Miranda's Song"
   width="300"
 />
-
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mirandassong2.webp?raw=true"
   alt="Miranda's Song2"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mirandassong3.webp?raw=true"
+  alt="Miranda's Song3"
+  width="300"
+/>
 <br><br>
-**Date**: April 19, 2025 and May 12, 2025
-**Shared By**: Nathan9124 and Digits
+**Date**: April 19, 2025, May 12, 2025, and May 19, 2025
+**Shared By**: Nathan9124, Digits, and Gooner8733
 
 <br><br>
 ---
