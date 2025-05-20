@@ -1,4 +1,4 @@
-Pumpkin Pete Quest Log
+mPumpkin Pete Quest Log
 --- 
 **Quest Name**:<br>
 Ancient Totem
@@ -1022,7 +1022,7 @@ You receive 50 Coins 🪙. (🚶 Ignore it.)
 />
 
 <img
-  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mysticwell3.png?raw=true"
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mysticwell3.webp?raw=true"
   alt="Mystic Well3"
   width="300"
 />
