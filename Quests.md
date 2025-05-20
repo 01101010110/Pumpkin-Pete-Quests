@@ -1445,7 +1445,7 @@ Follow-Up **Choices** (if you investigate):<br>
 <br><br>
 **Outcomes**:<br>
 You receive 5 Iron ⛓️. (🪻 Sneak into the garden.)<br>
-You walk away, curious but cautious. You receive 50 Coins 🪙.
+You walk away, curious but cautious. You receive 50 Coins 🪙. (🫡 Bow out gracefully.)
 <br><br>
 **Screenshots**:<br>
 <img
