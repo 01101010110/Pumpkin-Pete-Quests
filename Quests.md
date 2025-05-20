@@ -1028,7 +1028,7 @@ You receive 50 Coins 🪙. (🚶 Ignore it.)
 />
 <br><br>
 **Date**: May 3, 2025, May 9. 2025, and May 17, 2025
-**Shared By**: Nox, Korlithiel, and gooner8733
+**Shared By**: Nox, Korlithiel, and Hira
 
 <br><br>
 ---
