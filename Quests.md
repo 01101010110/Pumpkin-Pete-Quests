@@ -485,7 +485,8 @@ Follow-Up Choices (if you investigate):<br>
 <br><br>
 **Outcomes**:<br>
 You receive 5 Corn Seed 🌽. (💰 Enter the mountain lair). <br>
-You walk away, curious but cautious. You receive 50 Coins 🌕. (🚫 Ignore the goblin's tip.)
+You walk away, curious but cautious. You receive 50 Coins 🌕. (🚫 Ignore the goblin's tip.)<br>
+You receive 5 Wood 🪵. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -498,9 +499,15 @@ You walk away, curious but cautious. You receive 50 Coins 🌕. (🚫 Ignore the
   alt="Goblin Scheme 2"
   width="300"
 />
+
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goblinscheme3.webp?raw=true"
+  alt="Goblin Scheme 3"
+  width="300"
+/>
 <br><br>
-**Date**: April 22, 2025 and May 5, 2025
-**Shared By**: Korlithiel, Akutogon, and Zenn
+**Date**: April 22, 2025, May 5, 2025, and May 17, 2025
+**Shared By**: Korlithiel, Akutogon, Zenn, and Korlithiel
 
 <br><br>
 ---
