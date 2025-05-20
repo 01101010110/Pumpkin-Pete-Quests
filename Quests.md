@@ -1110,7 +1110,9 @@ Follow-Up **Choices** (if you investigate):<br>
 🚫 Leave the float unfinished.
 <br><br>
 **Outcomes**:<br>
-You receive 5 Rod 🎣. (🔍 Scour the dusty barn.)
+You receive 5 Rod 🎣. (🔍 Scour the dusty barn.)<br>
+You receive 50 Coins 🌕. (🚫 Leave the float unfinished.)<br>
+You receive 3 Yellow Pansy 🌼. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1123,9 +1125,14 @@ You receive 5 Rod 🎣. (🔍 Scour the dusty barn.)
   alt="Pete's Parade 2"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/petesparade2.webp?raw=true"
+  alt="Pete's Parade 3"
+  width="300"
+/>
 <br><br>
-**Date**: April 20, 2025 and April 21, 2025
-**Shared By**: Thebyber and Silver-Wolf
+**Date**: April 20, 2025, April 21, 2025, and May 20, 2025
+**Shared By**: Thebyber, Silver-Wolf, and Digits
 
 <br><br>
 ---
