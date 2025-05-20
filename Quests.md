@@ -1,4 +1,4 @@
-mPumpkin Pete Quest Log
+Pumpkin Pete Quest Log
 --- 
 **Quest Name**:<br>
 Ancient Totem
