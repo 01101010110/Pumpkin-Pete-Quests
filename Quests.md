@@ -828,7 +828,8 @@ A wandering merchant offers you a sealed mystery box. He promises great rewards 
 <br><br>
 **Outcomes**:<br>
 You find 5 Axes 🪓! (🎁 Buy the box.)<br>
-You receive 50 Coins 🪙. (🚫 Decline.)
+You receive 50 Coins 🪙. (🚫 Decline.)<br>
+You receive 5 Wood 🪵. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -841,9 +842,15 @@ You receive 50 Coins 🪙. (🚫 Decline.)
   alt="Merchant’s Mystery Box 2"
   width="300"
 />
+
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/merchantmysterybox3.webp?raw=true"
+  alt="Merchant’s Mystery Box 3"
+  width="300"
+/>
 <br><br>
-**Date**: April 10, 2025 and April 14, 2025
-**Shared By**: Haesoo and Tura
+**Date**: April 10, 2025, April 14, 2025, and May 17, 2025
+**Shared By**: Haesoo, Tura, and Gooner8733
 
 <br><br>
 ---
@@ -965,8 +972,7 @@ Follow-Up **Choices** (if you investigate):<br>
 <br><br>
 **Outcomes**:<br>
 Inside you find 3 Kale Seeds 🥬✨. (📦 Select the glowing package.)<br>
-You discover 100 Coins 🪙 and some supplies(2 wood)! 🎁 Choose the wooden box.<br>
-You receive 5 Wood 🪵. (🚶 Ignore it.)
+You discover 100 Coins 🪙 and some supplies(2 wood)! 🎁 Choose the wooden box.
 <br><br>
 **Screenshots**:<br>
 <img
@@ -985,7 +991,7 @@ You receive 5 Wood 🪵. (🚶 Ignore it.)
   width="300"
 />
 <br><br>
-**Date**: April 20, 2025, May 4, 2025 and May 17, 2025
+**Date**: April 20, 2025, May 4, 2025 
 **Shared By**: Digits and Gooner8733
 
 <br><br>
