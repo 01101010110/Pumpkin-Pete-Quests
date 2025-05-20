@@ -972,7 +972,8 @@ Follow-Up **Choices** (if you investigate):<br>
 <br><br>
 **Outcomes**:<br>
 Inside you find 3 Kale Seeds 🥬✨. (📦 Select the glowing package.)<br>
-You discover 100 Coins 🪙 and some supplies(2 wood)! 🎁 Choose the wooden box.
+You discover 100 Coins 🪙 and some supplies(2 wood)! 🎁 Choose the wooden box.<br>
+You receive 5 Wood 🪵. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -991,8 +992,8 @@ You discover 100 Coins 🪙 and some supplies(2 wood)! 🎁 Choose the wooden bo
   width="300"
 />
 <br><br>
-**Date**: April 20, 2025, May 4, 2025 
-**Shared By**: Digits and Gooner8733
+**Date**: April 20, 2025, May 4, 2025, and May 17, 2025 
+**Shared By**: Digits and Gooner8733 twice
 
 <br><br>
 ---
