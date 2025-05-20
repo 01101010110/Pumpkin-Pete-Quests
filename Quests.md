@@ -1006,7 +1006,8 @@ A bubbling well behind the plaza is glowing. Drop something in? As you approach 
 <br><br>
 **Outcomes**:<br>
 You uncover something valuable and receive 5 Stone 🪨. (💎 Drop your treasured item.)<br>
-You receive 50 Coins 🪙. (✅ Investigate and keep your belongings.)
+You receive 50 Coins 🪙. (✅ Investigate and keep your belongings.)<br>
+You receive 50 Coins 🪙. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1019,9 +1020,15 @@ You receive 50 Coins 🪙. (✅ Investigate and keep your belongings.)
   alt="Mystic Well2"
   width="300"
 />
+
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mysticwell3.png?raw=true"
+  alt="Mystic Well3"
+  width="300"
+/>
 <br><br>
-**Date**: May 3, 2025 and May 9. 2025
-**Shared By**: Nox and Korlithiel
+**Date**: May 3, 2025, May 9. 2025, and May 17, 2025
+**Shared By**: Nox, Korlithiel, and gooner8733
 
 <br><br>
 ---
