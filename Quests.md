@@ -972,7 +972,7 @@ Follow-Up **Choices** (if you investigate):<br>
 <br><br>
 **Outcomes**:<br>
 Inside you find 3 Kale Seeds 🥬✨. (📦 Select the glowing package.)<br>
-You discover 100 Coins 🪙 and some supplies(2 wood)! 🎁 Choose the wooden box.<br>
+You discover 100 Coins 🪙 and some supplies(2 wood🪵)! (🎁 Choose the wooden box.)<br>
 You receive 5 Wood 🪵. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
