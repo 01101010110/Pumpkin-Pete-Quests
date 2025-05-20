@@ -1502,7 +1502,7 @@ A strange wind blows through the Plaza, carrying soft whispers that only you see
 🦻 Listen carefully.<br>
 🔴 Block your ears.
 <br><br>
-**Follow-Up Choices** (if you listen):
+**Choices**:<br>
 🌳 Dig beneath the tree.<br>
 🙉 Ignore the voices.
 <br><br>
