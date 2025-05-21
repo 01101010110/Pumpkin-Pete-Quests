@@ -568,12 +568,23 @@ A shady Goblin offers to "upgrade" your tools. His grin is unsettling. Trust him
 ❌ Decline.
 <br><br>
 **Outcomes**:<br>
-You receive 5 Rods 🎣 and 5 Pickaxes ⛏️. (🛠️ Agree.)
+You receive 5 Rods 🎣 and 5 Pickaxes ⛏️. (🛠️ Agree.)<br>
+You receive 50 Coins 🪙 and 5 Love Charm 💘. (❌ Decline.)
 <br><br>
 **Screenshots**:<br>
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goblinupgrade.png?raw=true"
   alt="Goblin Upgrade"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goblinupgrade2.webp?raw=true"
+  alt="Goblin Upgrade 2"
+  width="300"
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goblinupgrade3.webp?raw=true"
+  alt="Goblin Upgrade 3"
   width="300"
 />
 <br><br>
