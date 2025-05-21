@@ -588,8 +588,8 @@ You receive 50 Coins 🪙 and 5 Love Charm 💘. (❌ Decline.)
   width="300"
 />
 <br><br>
-**Date**: April 8, 2025
-**Shared By**: Kamen Rider Decade 
+**Date**: April 8, 2025 and May 21, 2025
+**Shared By**: Kamen Rider Decade and Digits
 
 <br><br>
 ---
