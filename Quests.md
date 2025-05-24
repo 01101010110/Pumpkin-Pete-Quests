@@ -1502,7 +1502,7 @@ You receive 10 Carrot 🥕. (🚶 Ignore it.)
   width="300"
 />
 <br><br>
-**Date**: April 21, 2025 and May 4, 2025
+**Date**: April 21, 2025, May 4, 2025, and May 23, 2025
 **Shared By**: Silver-wolf, Stewney, and KusariGreg|Lemonade
 
 <br><br> 
