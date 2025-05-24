@@ -1293,7 +1293,8 @@ A mysterious bottle washed ashore. It holds an old, crumpled note. Open it?
 <br><br>
 **Outcomes**:<br>
 You receive 5 Iron Pickaxe ⛏️. (🧭 Search the marked shoreline.)<br>
-You receive 100 Coins 🪙. (🚶 Ignore it.)
+You receive 100 Coins 🪙. (🚶 Ignore it.)<br>
+You receive 50 Coins 🪙. (📄 Crumple the soggy note.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1306,9 +1307,14 @@ You receive 100 Coins 🪙. (🚶 Ignore it.)
   alt="Sunken Bottle2"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/sunkenbottle3.webp?raw=true"
+  alt="Sunken Bottle3"
+  width="300"
+/>
 <br><br>
-**Date**: April 18, 2025, May 14, 2025
-**Shared By**: HM, Watawa
+**Date**: April 18, 2025, May 14, 2025, and May 22, 2025
+**Shared By**: HM, Watawa, and KusariGreg|Lemonade
 
 <br><br>
 ---
