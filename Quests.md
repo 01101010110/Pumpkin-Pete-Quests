@@ -1481,7 +1481,8 @@ Queen Victoria demands a tribute of rare flowers. Comply or resist?
 <br><br>
 **Outcomes**:<br>
 You receive 5 Iron ⛓️. (🪻 Sneak into the garden.)<br>
-You walk away, curious but cautious. You receive 50 Coins 🪙. (🫡 Bow out gracefully.)
+You walk away, curious but cautious. You receive 50 Coins 🪙. (🫡 Bow out gracefully.)<br>
+You receive 10 Carrot 🥕. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1491,13 +1492,18 @@ You walk away, curious but cautious. You receive 50 Coins 🪙. (🫡 Bow out gr
 />
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/victoriascommand2.webp?raw=true"
-  alt="Victoria's Command"
+  alt="Victoria's Command 2"
   width="300"
 />
 
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/victoriascommand3.webp?raw=true"
+  alt="Victoria's Command 3"
+  width="300"
+/>
 <br><br>
 **Date**: April 21, 2025 and May 4, 2025
-**Shared By**: Silver-wolf and Stewney
+**Shared By**: Silver-wolf, Stewney, and KusariGreg|Lemonade
 
 <br><br> 
 ---
