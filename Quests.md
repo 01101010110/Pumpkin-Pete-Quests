@@ -240,7 +240,8 @@ Cornwell challenges you with a cryptic riddle tied to a hidden stash. Try to sol
 <br><br>
 **Outcomes**:<br>
 You receive 10 Kale 🥬. (👨‍🌾 Investigate the answer.)<br>
-You receive 50 Coins 🌕. (📘 Close the riddle book.)
+You receive 50 Coins 🌕. (📘 Close the riddle book.)<br>
+You receive 150 Coins 🪙. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -253,9 +254,14 @@ You receive 50 Coins 🌕. (📘 Close the riddle book.)
   alt="Cornwell’s Riddle 2"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/cornwellsriddle3.webp?raw=true"
+  alt="Cornwell’s Riddle 3"
+  width="300"
+/>
 <br><br>
-**Date**: April 20, 2025 and May 1, 2025
-**Shared By**: Silver-wolf and Digits
+**Date**: April 20, 2025, May 1, 2025, and May 23, 2025
+**Shared By**: Silver-wolf, Digits, and DDV
 
 <br><br>
 ---
