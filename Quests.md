@@ -793,7 +793,8 @@ Cornwell misplaced a scroll that could reveal ancient truths. Help find it?
 📚 Leave the library.
 <br><br>
 **Outcomes**:<br>
-You receive 5 Celestine Seed 🌱. (🛠️ Enter the hidden room.)
+You receive 5 Celestine Seed 🌱. (🛠️ Enter the hidden room.)<br>
+You receive 3 Red Pansy 🌺. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br> 
 <img
@@ -801,9 +802,14 @@ You receive 5 Celestine Seed 🌱. (🛠️ Enter the hidden room.)
   alt="Lost Scroll"
   width="200"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/lostscroll2.png?raw=true"
+  alt="Lost Scroll 2"
+  width="200"
+/>
 <br><br>
-**Date**: April 18, 2025
-**Shared By**: Pawel 
+**Date**: April 18, 2025 and May 22, 2025
+**Shared By**: Pawel and Artur_er
 
 <br><br>
 ---
