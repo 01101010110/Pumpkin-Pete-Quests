@@ -176,8 +176,8 @@ A cheeky chicken challenges you to a race around the farm. Villagers are watchin
 🐥 Let it strut.
 <br><br>
 **Outcomes**:<br>
-You win and earn 5 Axes 🪓 and 50 Coins 🪙. (🏃‍♂️ Race the chicken.)<br>
-The chicken lays a rare Kale seed 🥬 (equivalent to 5 Kale). (🐥 Let it strut.)
+You receive 5 Axes 🪓 and 50 Coins 🪙. (🏃‍♂️ Race the chicken.)<br>
+You receive 5 kale 🥬. (🐥 Let it strut.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -312,7 +312,7 @@ Finley saw a huge shadow in the ocean. Try to catch it?
 <br><br>
 **Outcomes**:<br>
 You receive 5 Stone 🪨. (🎣 Cast Finley's rod.)<br>
-You walk away, curious but cautious. You receive 50 Coins 🪙 (🐚 Sit by the shore instead.)<br>
+You receive 50 Coins 🪙 (🐚 Sit by the shore instead.)<br>
 You receive 3 Purple Pansy 🟣. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
@@ -349,8 +349,8 @@ A fox is spotted stealing berries from your farm. Quick thinking might save your
 🥬 Let it go.
 <br><br>
 **Outcomes**:<br>
-The fox leaves a Kale leaf 🥬 behind. Gives 5 kale in game (🥬 Let it go.)<br>
-It drops 5 Wild Mushrooms 🍄. (🦊 Shoo it away.)
+You receive 5 kale. (🥬 Let it go.)<br>
+You receive 5 Mushrooms 🍄. (🦊 Shoo it away.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -385,8 +385,8 @@ Gambit offers a risky game with high rewards. Do you play?
 🎭 Decline the risky bet. 
 <br><br>
 **Outcomes**:<br>
-You uncover something valuable and receive 5 Wheat Seed. (🕵️ Start the scavenger hunt.)<br>
-You walk away, curious but cautious. You receive 50 Coins 🪙. (🎭 Decline the risky bet.)<br>
+You receive 5 Wheat Seed. (🕵️ Start the scavenger hunt.)<br>
+You receive 50 Coins 🪙. (🎭 Decline the risky bet.)<br>
 You receive 50 Coins 🪙. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
@@ -429,7 +429,7 @@ Strange crops have sprouted overnight, glowing under the moonlight. Investigate?
 <br><br>
 **Outcomes**:<br>
 You receive 10 Pumpkin 🎃. (🧩 Decode the crop symbol.)<br>
-You walk away, curious but cautious. You receive 50 Coins 🪙. (🌑 Step away from the glow.)<br>
+You receive 50 Coins 🪙. (🌑 Step away from the glow.)<br>
 You receive 5 Iron ⛓️. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
@@ -504,7 +504,7 @@ A shady goblin whispers about a shortcut to wealth. Trust him? 💎 The goblin l
 <br><br>
 **Outcomes**:<br>
 You receive 5 Corn Seed 🌽. (💰 Enter the mountain lair). <br>
-You walk away, curious but cautious. You receive 50 Coins 🌕. (🚫 Ignore the goblin's tip.)<br>
+You receive 50 Coins 🌕. (🚫 Ignore the goblin's tip.)<br>
 You receive 5 Wood 🪵. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
@@ -542,7 +542,7 @@ A sneaky Goblin jingles a bag of shiny stones, offering a suspicious trade for y
 🚶 Refuse.
 <br><br>
 **Outcomes**:<br>
-The Goblin huffs and vanishes. You receive 50 Coins 🪙. (🚶 Refuse.)<br>
+You receive 50 Coins 🪙. (🚶 Refuse.)<br>
 You receive 5 Pickaxe ⛏️. (🤝 Accept trade.)
 <br><br>
 **Screenshots**:<br>
@@ -618,7 +618,7 @@ A Golden Fish is flopping by the river, its scales glistening in the sunlight. L
 🦈 Let it go.
 <br><br>
 **Outcomes**:<br>
-You catch the fish and find 15 Gems 💎.(🐠 Catch it!)<br>
+You receive 15 Gems 💎.(🐠 Catch it!)<br>
 You receive 50 Coins 🪙(🦈 Let it go.)
 <br><br>
 **Screenshots**:<br>
@@ -659,7 +659,7 @@ Grimbly is preparing a Goblin feast but needs one last ingredient. Help him?
 🥣 Refuse the recipe.
 <br><br>
 **Outcomes**:<br>
-You receive 7 Gem 💎. (🍄 Search behind the falls.)<br>
+You receive 7 Gems 💎. (🍄 Search behind the falls.)<br>
 You receive 100 Coins 🪙. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
@@ -691,8 +691,8 @@ Wise Old Cornwell waves you over, arms full of freshly picked Kale. He looks exh
 🙈 Ignore him.
 <br><br>
 **Outcomes**:<br>
-Cornwell gifts you 5 Kale 🥬 and 10 Love Charms 💘. (🧑‍🌾 Help him.)<br>
-He grumbles and tosses a rotten tomato 🍅 at you. You receive 50 Coins. (🙈 Ignore him.)
+You receive 5 Kale 🥬 and 10 Love Charms 💘. (🧑‍🌾 Help him.)<br>
+You receive 50 Coins. (🙈 Ignore him.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -728,7 +728,7 @@ The Jester reveals his plan: he's going to replace Victoria's crown with a fake 
 <br><br>
 **Outcomes**:<br>
 You receive 5 Gold 🪙. (🚶 Ignore it.)<br>
-You walk away, curious but cautious.  You receive 50 Coins 🪙. (⚖️ Warn the queen)<br>
+You receive 50 Coins 🪙. (⚖️ Warn the queen)<br>
 You receive 10 Pumpkin 🎃. (👑Swap the crown!)
 <br><br>
 **Screenshots**:<br>
@@ -749,7 +749,7 @@ You receive 10 Pumpkin 🎃. (👑Swap the crown!)
 />
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/jestersprank4.webp?raw=true"
-  alt="Jester’s Prank 3"
+  alt="Jester’s Prank 4"
   width="300"
 />
 <br><br>
@@ -770,8 +770,8 @@ You stumble upon a torn pirate map buried in the sand. Will you follow it?
 🚶 Ignore it.
 <br><br>
 **Outcomes**:<br>
-You dig up a treasure chest full of 10 Gems 💎. (🗺️ Follow it.)<br>
-You find a few scattered Coins 🪙 (approx. 50 Coins). (🚶 Ignore it.)
+You receive 10 gems 💎. (🗺️ Follow it.)<br>
+You receive 50 coins 🪙. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -838,7 +838,7 @@ A vibrant magic storm rolls across Sunflower Land. Will you brave it?
 🏠 Hide inside.
 <br><br>
 **Outcomes**:<br>
-You absorb its energy and gain 10 Axes 🪓. (🌫️ Dance in the storm.)<br>
+You receive 10 Axes 🪓. (🌫️ Dance in the storm.)<br>
 You receive 5 Wood 🪵. (🏠 Hide inside.)
 <br><br>
 **Screenshots**:<br>
@@ -951,8 +951,8 @@ Your crops glisten under the full moon. Old tales say moon-harvests bring unusua
 🐑 Wait till morning.
 <br><br>
 **Outcomes**:<br>
-Animals eat some of your crops. 50 Coins 🪙. (🐑 Wait till morning.)<br>
-You gather 5 Kale 🥬 and 10 Wood 🪵. (🌾 Harvest them.)
+You receive 50 Coins 🪙. (🐑 Wait till morning.)<br>
+You receive 5 Kale 🥬 and 10 Wood 🪵. (🌾 Harvest them.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -983,8 +983,8 @@ Overnight, a glowing circle of mushrooms has formed near your farm. Strange ener
 🛡️ Walk around it.
 <br><br>
 **Outcomes**:<br>
-You feel dizzy but find 3 Wild Mushrooms 🍄. (🌀 Step inside.)<br>
-You collect 5 Wood 🪵 safely. (🛡️ Walk around it.)
+You receive 3 Wild Mushrooms 🍄. (🌀 Step inside.)<br>
+You receive 5 Wood . (🛡️ Walk around it.)
 <br><br>
 **Screenshots**:<br>
 <img
