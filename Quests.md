@@ -382,11 +382,12 @@ Gambit offers a risky game with high rewards. Do you play?
 <br><br>
 **Follow-Up Choices** (if you investigate):<br>
 🕵️ Start the scavenger hunt.<br>
-🎭 Decline the risky bet.
+🎭 Decline the risky bet. 
 <br><br>
 **Outcomes**:<br>
 You uncover something valuable and receive 5 Wheat Seed. (🕵️ Start the scavenger hunt.)<br>
-You walk away, curious but cautious. You receive 50 Coins 🪙. (🎭 Decline the risky bet.)
+You walk away, curious but cautious. You receive 50 Coins 🪙. (🎭 Decline the risky bet.)<br>
+You receive 50 Coins 🪙. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -396,12 +397,18 @@ You walk away, curious but cautious. You receive 50 Coins 🪙. (🎭 Decline th
 />
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/gambitsbet2.webp?raw=true"
-  alt="Gambit's Bet"
+  alt="Gambit's Bet 2"
+  width="200"
+/>
+
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/gambitsbet3.webp?raw=true"
+  alt="Gambit's Bet 3"
   width="200"
 />
 <br><br>
-**Date**: May 2, 2025 and May 14, 2025
-**Shared By**: Xemzie and Akutogon
+**Date**: May 2, 2025, May 14, 2025, and May 23, 2025
+**Shared By**: Xemzie, Akutogon, and Hira
 
 <br><br>
 ---
