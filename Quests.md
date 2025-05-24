@@ -260,7 +260,7 @@ You receive 150 Coins 🪙. (🚶 Ignore it.)
   width="300"
 />
 <br><br>
-**Date**: April 20, 2025, May 1, 2025, and May 23, 2025
+**Date**: April 20, 2025, May 1, 2025, and May 22, 2025
 **Shared By**: Silver-wolf, Digits, and DDV
 
 <br><br>
