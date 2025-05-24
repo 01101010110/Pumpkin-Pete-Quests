@@ -48,7 +48,7 @@ A traveling bard plays a lively tune and asks for a small gift to bless your har
 🤐 Ignore him.
 <br><br>
 **Outcomes**:<br>
-He rewards you with 5 Wild Mushrooms 🍄 and 50 Coins 🪙. (🎵 Give him mushrooms.)<br>
+You receive 5 Wild Mushrooms 🍄 and 50 Coins 🪙. (🎵 Give him mushrooms.)<br>
 You receive 50 Coins 🪙. (🤐 Ignore him.)
 <br><br>
 **Screenshots**:<br>
@@ -145,7 +145,7 @@ A dazzling rainbow arcs across Sunflower Land. It’s said treasures lie at its 
 <br><br>
 **Outcomes**:<br>
 You find 10 Gems 💎. (🏃 Chase it!)<br>
-You continue farming peacefully and receive 50 Coins. (🧑‍🌾 Ignore it.)
+You receive 50 Coins. (🧑‍🌾 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
