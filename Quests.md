@@ -291,7 +291,7 @@ You receive 50 Coins 🪙. (🚶 Ignore it.)
   width="300"
 />
 <img
-  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/desertrune2.webp?raw=true"
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/desertrune2.png?raw=true"
   alt="Desert Rune 2"
   width="300"
 />
