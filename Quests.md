@@ -1378,7 +1378,8 @@ Old Salty is sneezing—says it's the scent of nearby treasure. Follow his nose?
 <br><br>
 **Outcomes**:<br>
 You receive 5 Pumpkin Seed 🎃. (🪣 Dig where he points.)<br>
-You walk away and find a few coins. You receive 3 Yellow Pansy 🌼. (🚶 Ignore it.)
+You walk away and find a few coins. You receive 3 Yellow Pansy 🌼. (🚶 Ignore it.)<br>
+You receive 50 Coins 🪙. (🚫 Respect the boundaries.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1391,9 +1392,14 @@ You walk away and find a few coins. You receive 3 Yellow Pansy 🌼. (🚶 Ignor
   alt="Treasure Dust2"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/treasuredust3.webp?raw=true"
+  alt="Treasure Dust3"
+  width="300"
+/>
 <br><br>
-**Date**: April 30, 2025 and May 9, 2025
-**Shared By**: Xemzie and Ernesto
+**Date**: April 30, 2025, May 9, 2025, and May 25, 2025
+**Shared By**: Xemzie, Ernesto, and Rckmtl
 
 <br><br>
 ---
