@@ -1191,7 +1191,8 @@ Betty says the plaza is whispering secrets at night. Investigate the sound?
 <br><br>
 **Outcomes**:<br>
 You receive 10 Beetroot 🥬. (🛠️ Uncover the fountain's secret.)<br>
-You receive 50 Coins 🌕. (🌃 Walk into the night.)
+You receive 50 Coins 🌕. (🌃 Walk into the night.)<br>
+You receive 5 Egg 🥚. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1204,9 +1205,14 @@ You receive 50 Coins 🌕. (🌃 Walk into the night.)
   alt="Plaza Whispers2"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/plazawhispers3.webp?raw=true"
+  alt="Plaza Whispers3"
+  width="300"
+/>
 <br><br>
-**Date**: April 18, 2025 and May 20, 2025
-**Shared By**: Xemzie and Stewney
+**Date**: April 18, 2025, May 20, 2025, and May 28, 2025
+**Shared By**: Xemzie, Stewney, and Xeko
 
 <br><br>
 ---
