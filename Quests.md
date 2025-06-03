@@ -1434,7 +1434,7 @@ A crumpled scroll blows into your path, possibly leading to treasure. Will you r
 🔥 Burn it.
 <br><br>
 **Outcomes**:<br>
-You uncover 5 Pickaxes ⛏️. (📜 Read it.)
+You uncover 5 Pickaxes ⛏️. (📜 Read it.)<br>
 You find 5 Wood 🪵 from the ashes. (🔥 Burn it)
 <br><br>
 **Screenshots**:<br>
