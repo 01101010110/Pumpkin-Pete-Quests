@@ -1470,9 +1470,9 @@ Tywin's Tax
 😇 Do nothing.
 <br><br>
 **Outcomes**:<br>
-You sneak in and steal 10 Kale 🥬 from the Kingdom! (🧨 Sabotage his supply crate.)<br>
-You keep the peace and find 100 Coins 🪙 on your way home. (😇 Do nothing.)<br>
-You lose some produce but Tywin tosses you 3 Gems 💎 as a reward for your 'loyalty.' You receive 3 Gem 💎. (📦 Pay the tax.)
+You receive 10 Kale 🥬 (🧨 Sabotage his supply crate.)<br>
+You receive 100 Coins 🪙(😇 Do nothing.)<br>
+You receive 3 Gem 💎. (📦 Pay the tax.)
 <br><br>
 **Screenshots**:<br>
 <img
