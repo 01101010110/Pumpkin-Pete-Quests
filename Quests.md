@@ -90,8 +90,8 @@ You receive 50 Coins 🪙. (🚶 Walk away.)
 <br><br>
 **Screenshots**:<br>
 <img src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/beachbanter.webp?raw=true" alt="Beach Banter" width="200"/>
-<img src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/beachbanter2.png?raw=true" alt="Beach Banter2" width="300"/>
-<img src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/beachbanter3.png?raw=true" alt="Beach Banter2" width="300"/>
+<img src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/beachbanter2.png?raw=true" alt="Beach Banter2" width="400"/>
+<img src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/beachbanter3.png?raw=true" alt="Beach Banter2" width="400"/>
 <br><br>
 **Date**: May 5, 2025, May 12, 2025, and May 27, 2025
 **Shared By**: Korlithiel, Artur_er, and CryptoFarmer
