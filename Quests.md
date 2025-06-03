@@ -126,7 +126,7 @@ You receive 3 Red Pansy 🌺. (🚶 Ignore it.)
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/bertsportal2.webp?raw=true"
   alt="Bert’s Portal"
-  width="300"
+  width="200"
 />
 <br><br>
 **Date**: April 19, 2025 and May 17, 2025
