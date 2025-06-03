@@ -1205,7 +1205,7 @@ You receive 5 Egg 🥚. (🚶 Ignore it.)
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/plazawhispers2.webp?raw=true"
   alt="Plaza Whispers2"
-  width="300"
+  width="200"
 />
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/plazawhispers3.png?raw=true"
