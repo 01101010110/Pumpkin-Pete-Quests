@@ -1245,13 +1245,11 @@ Who is Raven secretly related to?
   alt="Raven’s Secret 2"
   width="300"
 />
-
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ravenssecret3.webp?raw=true"
   alt="Raven’s Secret 3"
   width="300"
 />
-
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ravenssecret4.webp?raw=true"
   alt="Raven’s Secret 4"
