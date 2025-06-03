@@ -897,7 +897,6 @@ You receive 5 Wood 🪵. (🚶 Ignore it.)
   alt="Merchant’s Mystery Box 2"
   width="300"
 />
-
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/merchantsmysterybox3.webp?raw=true"
   alt="Merchant’s Mystery Box 3"
