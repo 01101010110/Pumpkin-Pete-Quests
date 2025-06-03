@@ -565,7 +565,7 @@ You receive 5 Pickaxe ⛏️. (🤝 Accept trade.)
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/goblintrade3.png?raw=true"
   alt="Goblin Trade3"
-  width="300"
+  width="500"
 />
 
 
