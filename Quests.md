@@ -411,7 +411,7 @@ You receive 50 Coins 🪙. (🚶 Ignore it.)
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/gambitsbet3.webp?raw=true"
   alt="Gambit's Bet 3"
-  width="200"
+  width="300"
 />
 <br><br>
 **Date**: May 2, 2025, May 14, 2025, and May 23, 2025
