@@ -408,7 +408,6 @@ You receive 50 Coins 🪙. (🚶 Ignore it.)
   alt="Gambit's Bet 2"
   width="200"
 />
-
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/gambitsbet3.webp?raw=true"
   alt="Gambit's Bet 3"
