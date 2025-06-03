@@ -668,7 +668,8 @@ Grimbly is preparing a Goblin feast but needs one last ingredient. Help him?
 <br><br>
 **Outcomes**:<br>
 You receive 7 Gems 💎. (🍄 Search behind the falls.)<br>
-You receive 100 Coins 🪙. (🚶 Ignore it.)
+You receive 100 Coins 🪙. (🚶 Ignore it.)<br>
+You walk away, curious but cautious. You receive 50 Coins 🪙. (🥣 Refuse the recipe.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -681,9 +682,14 @@ You receive 100 Coins 🪙. (🚶 Ignore it.)
   alt="Grimbly's Feast2"
   width="200"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/grimblysfeast3.webp?raw=true"
+  alt="Grimbly's Feast3"
+  width="200"
+/>
 <br><br>
-**Date**: April 20, 2025 and May 13, 2025
-**Shared By**: LaMouette and Korlithiel
+**Date**: April 20, 2025, May 13, 2025, and June 2, 2025
+**Shared By**: LaMouette, Korlithiel, and UncleR
 
 <br><br>
 ---
