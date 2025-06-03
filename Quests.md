@@ -1477,7 +1477,7 @@ You receive 3 Gems 💎. (📦 Pay the tax.)
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/tywinstax2.png?raw=true"
   alt="Tywin's Tax 2"
-  width="300"
+  width="200"
 />
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/tywinstax3.webp?raw=true"
