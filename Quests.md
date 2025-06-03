@@ -66,6 +66,7 @@ You receive 50 Coins 🪙. (🤐 Ignore him.)
 />
 <br><br>
 **Date**: April 10, 2025 and April 11, 2025
+
 **Shared By**: Haesoo and  LaMouette 
 
 <br><br>
@@ -95,6 +96,7 @@ You receive 50 Coins 🪙. (🚶 Walk away.)
 <img src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/beachbanter3.png?raw=true" alt="Beach Banter2" width="400"/>
 <br><br>
 **Date**: May 5, 2025, May 12, 2025, and May 27, 2025
+
 **Shared By**: Korlithiel, Artur_er, and CryptoFarmer
 
 <br><br>
@@ -131,6 +133,7 @@ You receive 3 Red Pansy 🌺. (🚶 Ignore it.)
 />
 <br><br>
 **Date**: April 19, 2025 and May 17, 2025
+
 **Shared By**: Thebyber and UncleR
  
 <br><br>
@@ -163,6 +166,7 @@ You receive 50 Coins. (🧑‍🌾 Ignore it.)
 />
 <br><br>
 **Date**: April 8, 2025 and April 19, 2025
+
 **Shared By**: Digits and DarwinJRG
 
 <br><br>
@@ -195,6 +199,7 @@ You receive 5 kale 🥬. (🐥 Let it strut.)
 />
 <br><br>
 **Date**: April 12, 2025 and April 17, 2025
+
 **Shared By**: Thebyber and Tura
 
 <br><br>
@@ -222,6 +227,7 @@ What is Cornwell’s profession in Sunflower Land?
 />
 <br><br>
 **Date**: April 21, 2025
+
 **Shared By**: Kamen Rider Decade
 
 <br><br> 
@@ -264,6 +270,7 @@ You receive 150 Coins 🪙. (🚶 Ignore it.)
 />
 <br><br>
 **Date**: April 20, 2025, May 1, 2025, and May 22, 2025
+
 **Shared By**: Silver-wolf, Digits, and DDV
 
 <br><br>
@@ -300,6 +307,7 @@ You receive 50 Coins 🪙. (🚶 Ignore it.)
 />
 <br><br>
 **Date**: April 23, 2025 and May 24, 2025
+
 **Shared By**: Alucard and Haesoo
 
 <br><br>
@@ -342,6 +350,7 @@ You receive 3 Purple Pansy 🟣. (🚶 Ignore it.)
 />
 <br><br>
 **Date**: April 27, 2025, April 30, 2025, and May 14, 2025
+
 **Shared By**: TJ-Eo, Digits, and Hira
 
 <br><br>
@@ -374,6 +383,7 @@ You receive 5 Mushrooms 🍄. (🦊 Shoo it away.)
 />
 <br><br>
 **Date**: April 10, 2025 and April 11, 2025
+
 **Shared By**: Digits and Farm22157bumpkin88
 
 <br><br>
@@ -416,6 +426,7 @@ You receive 50 Coins 🪙. (🚶 Ignore it.)
 />
 <br><br>
 **Date**: May 2, 2025, May 14, 2025, and May 23, 2025
+
 **Shared By**: Xemzie, Akutogon, and Hira
 
 <br><br>
@@ -458,6 +469,7 @@ You receive 5 Iron ⛓️. (🚶 Ignore it.)
 />
 <br><br>
 **Date**: April 18, 2025, May 11, 2025, and May 14, 2025
+
 **Shared By**: TJ-Eo, Stewney, and Tura
 
 <br><br>
@@ -491,6 +503,7 @@ You receive 5 Stone 🪨. (🚶 Stay away.)
 
 <br><br>
 **Date**: April 10, 2025 and April 17, 2025
+
 **Shared By**: DDV and Silver-Wolf
 
 <br><br>
@@ -533,6 +546,7 @@ You receive 5 Wood 🪵. (🚶 Ignore it.)
 />
 <br><br>
 **Date**: April 22, 2025, May 5, 2025, and May 17, 2025
+
 **Shared By**: Korlithiel, Akutogon, Zenn, and Korlithiel
 
 <br><br>
@@ -572,6 +586,7 @@ You receive 5 Pickaxe ⛏️. (🤝 Accept trade.)
 
 <br><br>
 **Date**: April 11, 2025
+
 **Shared By**: Nathan9124 and Digits
 
 <br><br>
@@ -609,6 +624,7 @@ You receive 50 Coins 🪙. (❌ Decline.)
 />
 <br><br>
 **Date**: April 8, 2025 and May 21, 2025
+
 **Shared By**: Kamen Rider Decade and Digits
 
 <br><br>
@@ -646,6 +662,7 @@ You receive 50 Coins 🪙(🦈 Let it go.)
 />
 <br><br>
 **Date**: April 10, 2025 and April 14, 2025
+
 **Shared By**: Silver-wolf, LaMouette, and DarwinJRG
 
 <br><br>
@@ -688,6 +705,7 @@ You receive 50 Coins 🪙. (🥣 Refuse the recipe.)
 />
 <br><br>
 **Date**: April 20, 2025, May 13, 2025, and June 2, 2025
+
 **Shared By**: LaMouette, Korlithiel, and UncleR
 
 <br><br>
@@ -720,6 +738,7 @@ You receive 50 Coins. (🙈 Ignore him.)
 />
 <br><br>
 **Date**: April 12, 2025 and April 30, 2025
+
 **Shared By**: Wattholm and Korlithiel
 
 <br><br>
@@ -767,6 +786,7 @@ You receive 10 Pumpkin 🎃. (👑Swap the crown!)
 />
 <br><br>
 **Date**: April 27, 2025, April 30, 2025, and May 6,2025
+
 **Shared By**: akutogon, Fllorist20, and Korlithiel (Twice)
 
 <br><br>
@@ -799,6 +819,7 @@ You receive 50 coins 🪙. (🚶 Ignore it.)
 />
 <br><br>
 **Date**: April 10, 2025 and April 14, 2025
+
 **Shared By**: Thebyber and Digits
 
 <br><br>
@@ -835,6 +856,7 @@ You receive 3 Red Pansy 🌺. (🚶 Ignore it.)
 />
 <br><br>
 **Date**: April 18, 2025 and May 22, 2025
+
 **Shared By**: Pawel and Artur_er
 
 <br><br>
@@ -867,6 +889,7 @@ You receive 5 Wood 🪵. (🏠 Hide inside.)
 />
 <br><br>
 **Date**: April 11, 2025 and April 12, 2025
+
 **Shared By**: Thebyber and itsmegruba
 
 <br><br>
@@ -905,6 +928,7 @@ You receive 5 Wood 🪵. (🚶 Ignore it.)
 />
 <br><br>
 **Date**: April 10, 2025, April 14, 2025, and May 17, 2025
+
 **Shared By**: Haesoo, Tura, and Gooner8733
 
 <br><br>
@@ -947,6 +971,7 @@ You receive 50 Coins 🌕. (🙉 Ignore the melody.)
 />
 <br><br>
 **Date**: April 19, 2025, May 12, 2025, and May 19, 2025
+
 **Shared By**: Nathan9124, Digits, and Gooner8733
 
 <br><br>
@@ -978,7 +1003,8 @@ You receive 5 Kale 🥬 and 10 Wood 🪵. (🌾 Harvest them.)
   width="300"
 />
 <br><br>
-**Date**: April 10, 2025 and April 12, 2025<br>
+**Date**: April 10, 2025 and April 12, 2025
+
 **Shared By**: Stewney and Allucard
 
 <br><br>
@@ -1011,6 +1037,7 @@ You receive 5 Wood . (🛡️ Walk around it.)
 />
 <br><br>
 **Date**: April 12, 2025
+
 **Shared By**: Yann and Digits
 
 <br><br> 
@@ -1053,6 +1080,7 @@ You receive 5 Wood 🪵. (🚶 Ignore it.)
 />
 <br><br>
 **Date**: April 20, 2025, May 4, 2025, and May 17, 2025 
+
 **Shared By**: Digits and Gooner8733 twice
 
 <br><br>
@@ -1095,6 +1123,7 @@ You receive 50 Coins 🪙. (🚶 Ignore it.)
 />
 <br><br>
 **Date**: May 3, 2025, May 9. 2025, and May 17, 2025
+
 **Shared By**: Nox, Korlithiel, and Hira
 
 <br><br>
@@ -1131,6 +1160,7 @@ You receive 50 Coins 🪙. (🧑‍🌾 Decline.)
 />
 <br><br>
 **Date**: April 11, 2025 and May 4, 2025
+
 **Shared By**: Farm22157bumpkin88 and Digits
 
 <br><br> 
@@ -1173,6 +1203,7 @@ You receive 3 Yellow Pansy 🌼. (🚶 Ignore it.)
 />
 <br><br>
 **Date**: April 20, 2025, April 21, 2025, and May 20, 2025
+
 **Shared By**: Thebyber, Silver-Wolf, and Digits
 
 <br><br>
@@ -1215,6 +1246,7 @@ You receive 5 Egg 🥚. (🚶 Ignore it.)
 />
 <br><br>
 **Date**: April 18, 2025, May 20, 2025, and May 28, 2025
+
 **Shared By**: Xemzie, Stewney, and Xeko
 
 <br><br>
@@ -1258,6 +1290,7 @@ Who is Raven secretly related to?
 />
 <br><br>
 **Date**: April 21, 2025, May 6, 2025, and May 9. 2025
+
 **Shared By**: Alisa, Kanzuki, and Digits
 
 <br><br>
@@ -1300,6 +1333,7 @@ You receive 50 Coins 🪙. (🏳️ Skip the lunar ritual.)
 />
 <br><br> 
 **Date**: April 26, 2025, May 10, 2025, and May 31, 2025
+
 **Shared By**: Korlithiel, Digits, and Hira
 
 <br><br>
@@ -1342,6 +1376,7 @@ You receive 50 Coins 🪙. (📄 Crumple the soggy note.)
 />
 <br><br>
 **Date**: April 18, 2025, May 14, 2025, and May 22, 2025
+
 **Shared By**: HM, Watawa, and KusariGreg|Lemonade
 
 <br><br>
@@ -1372,6 +1407,7 @@ You receive 5 Honey 🍯. (🐾 Follow the sticky trail.)
 />
 <br><br>
 **Date**: April 19, 2025
+
 **Shared By**: Digits
 
 <br><br>
@@ -1414,6 +1450,7 @@ You receive 50 Coins 🪙. (🚫 Respect the boundaries.)
 />
 <br><br>
 **Date**: April 30, 2025, May 9, 2025, and May 25, 2025
+
 **Shared By**: Xemzie, Ernesto, and Rckmtl
 
 <br><br>
@@ -1445,6 +1482,7 @@ You receive 5 Wood 🪵. (🔥 Burn it)
 />
 <br><br>
 **Date**: April 11, 2025 and May 3, 2025
+
 **Shared By**: Alucard and Stewney
 
 <br><br>
@@ -1487,6 +1525,7 @@ You receive 3 Gems 💎. (📦 Pay the tax.)
 />
 <br><br>
 **Date**: April 23, 2025, April 27, 2025, and May 11, 2025
+
 **Shared By**: Roan, Alucard, and Hira
 
 <br><br>
@@ -1529,6 +1568,7 @@ You receive 10 Carrot 🥕. (🚶 Ignore it.)
 />
 <br><br>
 **Date**: April 21, 2025, May 4, 2025, and May 23, 2025
+
 **Shared By**: Silver-wolf, Stewney, and KusariGreg|Lemonade
 
 <br><br> 
@@ -1555,6 +1595,7 @@ You receive 50 Coins 🪙. (🚶 Ignore them.)
 />
 <br><br>
 **Date**: April 9, 2025 and April 14, 2025
+
 **Shared By**: Digits
 
 <br><br>
@@ -1585,6 +1626,7 @@ You receive 5 Celestine Seed ✨. (🌳 Dig beneath the tree.)
 />
 <br><br>
 **Date**: April 20, 2025
+
 **Shared By**: Silver-wolf 
 
 <br><br>
@@ -1617,6 +1659,7 @@ You receive 5 Stone 🪨. (🛡️ Stay safe.)
 />
 <br><br>
 **Date**: April 10, 2025 and May 12, 2025
+
 **Shared By**: Haesoo and Stewney
 
 <br><br>
@@ -1654,6 +1697,7 @@ You receive 50 Coins 🪙. (🚶 Walk past.)
 />
 <br><br>
 **Date**: April 10, 2025 and May 3, 2025
+
 **Shared By**: Alucard and Digits
 
 <br><br>
