@@ -11,7 +11,7 @@ While digging, you unearth a strange humming totem covered in runes. What will y
 🙈 Bury it again.
 <br><br>
 **Outcomes**:<br>
-You are blessed with 100 Coins 🪙. (✋ Touch it.)<br>
+You receive 100 Coins 🪙. (✋ Touch it.)<br>
 You receive 5 Stone 🪨. (🙈 Bury it again.)
 <br><br>
 **Screenshots**:<br>
@@ -146,7 +146,7 @@ A dazzling rainbow arcs across Sunflower Land. It’s said treasures lie at its 
 🧑‍🌾 Ignore it.
 <br><br>
 **Outcomes**:<br>
-You find 10 Gems 💎. (🏃 Chase it!)<br>
+You receive 10 Gems 💎. (🏃 Chase it!)<br>
 You receive 50 Coins. (🧑‍🌾 Ignore it.)
 <br><br>
 **Screenshots**:<br>
@@ -474,8 +474,8 @@ The Goblins have set up a wild dance party in the fields. Strange music fills th
 🕺 Stay away.
 <br><br>
 **Outcomes**:<br>
-They gift you 15 Love Charms 💝. (💃 Join them.)<br>
-You find 5 Stone 🪨 nearby. (🚶 Stay away.)
+You receive 15 Love Charms 💝. (💃 Join them.)<br>
+You receive 5 Stone 🪨. (🚶 Stay away.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -590,7 +590,7 @@ A shady Goblin offers to "upgrade" your tools. His grin is unsettling. Trust him
 <br><br>
 **Outcomes**:<br>
 You receive 5 Rods 🎣 and 5 Pickaxes ⛏️. (🛠️ Agree.)<br>
-You receive 50 Coins 🪙 and 5 Love Charm 💘. (❌ Decline.)
+You receive 50 Coins 🪙. (❌ Decline.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -669,7 +669,7 @@ Grimbly is preparing a Goblin feast but needs one last ingredient. Help him?
 **Outcomes**:<br>
 You receive 7 Gems 💎. (🍄 Search behind the falls.)<br>
 You receive 100 Coins 🪙. (🚶 Ignore it.)<br>
-You walk away, curious but cautious. You receive 50 Coins 🪙. (🥣 Refuse the recipe.)
+You receive 50 Coins 🪙. (🥣 Refuse the recipe.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -884,7 +884,7 @@ A wandering merchant offers you a sealed mystery box. He promises great rewards 
 🚫 Decline.
 <br><br>
 **Outcomes**:<br>
-You find 5 Axes 🪓! (🎁 Buy the box.)<br>
+You receive 5 Axes 🪓! (🎁 Buy the box.)<br>
 You receive 50 Coins 🪙. (🚫 Decline.)<br>
 You receive 5 Wood 🪵. (🚶 Ignore it.)
 <br><br>
@@ -1033,8 +1033,8 @@ A cloaked figure appears at the edge of your farm, offering rare goods for an un
 🎁 Choose the wooden box.
 <br><br>
 **Outcomes**:<br>
-Inside you find 3 Kale Seeds 🥬✨. (📦 Select the glowing package.)<br>
-You discover 100 Coins 🪙 and some supplies(2 wood🪵)! (🎁 Choose the wooden box.)<br>
+You receive 3 Kale Seeds 🥬✨. (📦 Select the glowing package.)<br>
+You receive 100 Coins 🪙 and 2 wood🪵. (🎁 Choose the wooden box.)<br>
 You receive 5 Wood 🪵. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
@@ -1075,7 +1075,7 @@ A bubbling well behind the plaza is glowing. Drop something in? As you approach 
 🌑 Keep your belongings.
 <br><br>
 **Outcomes**:<br>
-You uncover something valuable and receive 5 Stone 🪨. (💎 Drop your treasured item.)<br>
+You receive 5 Stone 🪨. (💎 Drop your treasured item.)<br>
 You receive 50 Coins 🪙. (✅ Investigate and keep your belongings.)<br>
 You receive 50 Coins 🪙. (🚶 Ignore it.)
 <br><br>
@@ -1113,8 +1113,8 @@ Pete boasts about his fishing skills by the lake. He challenges you to a contest
 🧑‍🌾 Decline.
 <br><br>
 **Outcomes**:<br>
-You win and score 5 Rods 🎣. (🎣 Compete!)<br>
-Pete tosses you some Coins 🌕. (50 coins) (🧑‍🌾 Decline.)
+You receive 5 Rods 🎣. (🎣 Compete!)<br>
+You receive 50 Coins 🪙. (🧑‍🌾 Decline.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1283,9 +1283,9 @@ Raven speaks of a vision involving a rare flower and a lunar event. Search for i
 🏳️ Skip the lunar ritual.
 <br><br>
 **Outcomes**:<br>
-You receive 8 Gem 💎. (🌕 Wait beneath the moonlight.)<br>
-You walk away and find a few coins. You receive 3 Red Pansy 🌺. (🚶 Ignore it.)<br>
-You walk away, curious but cautious. You receive 50 Coins 🪙. (🏳️ Skip the lunar ritual.)
+You receive 8 Gems 💎. (🌕 Wait beneath the moonlight.)<br>
+You receive 3 Red Pansy 🌺. (🚶 Ignore it.)<br>
+You receive 50 Coins 🪙. (🏳️ Skip the lunar ritual.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1398,7 +1398,7 @@ Old Salty is sneezing—says it's the scent of nearby treasure. Follow his nose?
 <br><br>
 **Outcomes**:<br>
 You receive 5 Pumpkin Seed 🎃. (🪣 Dig where he points.)<br>
-You walk away and find a few coins. You receive 3 Yellow Pansy 🌼. (🚶 Ignore it.)<br>
+You receive 3 Yellow Pansy 🌼. (🚶 Ignore it.)<br>
 You receive 50 Coins 🪙. (🚫 Respect the boundaries.)
 <br><br>
 **Screenshots**:<br>
@@ -1434,8 +1434,8 @@ A crumpled scroll blows into your path, possibly leading to treasure. Will you r
 🔥 Burn it.
 <br><br>
 **Outcomes**:<br>
-You uncover 5 Pickaxes ⛏️. (📜 Read it.)<br>
-You find 5 Wood 🪵 from the ashes. (🔥 Burn it)
+You receive 5 Pickaxes ⛏️. (📜 Read it.)<br>
+You receive 5 Wood 🪵. (🔥 Burn it)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1470,9 +1470,9 @@ Tywin's Tax
 😇 Do nothing.
 <br><br>
 **Outcomes**:<br>
-You receive 10 Kale 🥬 (🧨 Sabotage his supply crate.)<br>
-You receive 100 Coins 🪙(😇 Do nothing.)<br>
-You receive 3 Gem 💎. (📦 Pay the tax.)
+You receive 10 Kale 🥬. (🧨 Sabotage his supply crate.)<br>
+You receive 100 Coins 🪙. (😇 Do nothing.)<br>
+You receive 3 Gems 💎. (📦 Pay the tax.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1513,7 +1513,7 @@ Queen Victoria demands a tribute of rare flowers. Comply or resist?
 <br><br>
 **Outcomes**:<br>
 You receive 5 Iron ⛓️. (🪻 Sneak into the garden.)<br>
-You walk away, curious but cautious. You receive 50 Coins 🪙. (🫡 Bow out gracefully.)<br>
+You receive 50 Coins 🪙. (🫡 Bow out gracefully.)<br>
 You receive 10 Carrot 🥕. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
@@ -1550,7 +1550,7 @@ Your sunflowers whisper secrets in the breeze. Lean in closer?
 🏃 Ignore them.
 <br><br>
 **Outcomes**:<br>
-You hear of hidden treasures and gain 100 Coins 🪙. (👂 Listen closely.)<br>
+You receive 100 Coins 🪙. (👂 Listen closely.)<br>
 You receive 50 Coins 🪙. (🚶 Ignore them.)
 <br><br>
 **Screenshots**:<br>
@@ -1607,8 +1607,8 @@ Cornwell spots a wild creature near the woods. Dangerous—or valuable?
 🛡️ Stay safe.
 <br><br>
 **Outcomes**:<br>
-You find a nest filled with 5 Gems 💎. (🧭 Investigate.)<br>
-You reinforce your fences and find 5 Stone 🪨. (🛡️ Stay safe.)
+You receive 5 Gems 💎. (🧭 Investigate.)<br>
+You receive 5 Stone 🪨. (🛡️ Stay safe.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1639,7 +1639,7 @@ An old wishing well glows faintly under the stars. Toss a coin and make a wish?
 🚶 Walk past.
 <br><br>
 **Outcomes**:<br>
-You are showered with 200 Coins 🪙. (🪙 Toss a coin.)<br>
+You receive 200 Coins 🪙. (🪙 Toss a coin.)<br>
 You receive 50 Coins 🪙. (🚶 Walk past.)
 <br><br>
 **Screenshots**:<br>
