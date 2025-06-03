@@ -1521,7 +1521,6 @@ You receive 10 Carrot 🥕. (🚶 Ignore it.)
   alt="Victoria's Command 2"
   width="300"
 />
-
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/victoriascommand3.webp?raw=true"
   alt="Victoria's Command 3"
