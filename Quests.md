@@ -1362,7 +1362,7 @@ Timmy swears he saw a Goblin stealing honey. Investigate the scene?
 ✅ Investigate.<br>
 🚶 Ignore it.
 <br><br>
-**Follow-Up Choices** (if you investigate):
+**Follow-Up Choices** (if you investigate):<br>
 🐾 Follow the sticky trail.<br>
 🌾 Leave the hive be.
 <br><br>
