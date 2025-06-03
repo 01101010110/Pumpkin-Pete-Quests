@@ -1163,7 +1163,7 @@ You receive 3 Yellow Pansy 🌼. (🚶 Ignore it.)
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/petesparade2.png?raw=true"
   alt="Pete's Parade 2"
-  width="300"
+  width="200"
 />
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/petesparade3.webp?raw=true"
