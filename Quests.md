@@ -1285,7 +1285,7 @@ You receive 50 Coins 🪙. (🏳️ Skip the lunar ritual.)
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ravensvision.png?raw=true"
   alt="Raven's Vision"
-  width="300"
+  width="200"
 />
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ravensvision2.webp?raw=true"
