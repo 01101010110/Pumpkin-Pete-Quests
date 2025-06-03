@@ -1080,7 +1080,7 @@ You receive 50 Coins 🪙. (🚶 Ignore it.)
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mysticwell.webp?raw=true"
   alt="Mystic Well"
-  width="300"
+  width="200"
 />
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mysticwell2.png?raw=true"
@@ -1090,7 +1090,7 @@ You receive 50 Coins 🪙. (🚶 Ignore it.)
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/mysticwell3.webp?raw=true"
   alt="Mystic Well3"
-  width="300"
+  width="400"
 />
 <br><br>
 **Date**: May 3, 2025, May 9. 2025, and May 17, 2025
