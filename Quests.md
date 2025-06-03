@@ -1278,7 +1278,8 @@ Raven speaks of a vision involving a rare flower and a lunar event. Search for i
 <br><br>
 **Outcomes**:<br>
 You receive 8 Gem 💎. (🌕 Wait beneath the moonlight.)<br>
-You walk away and find a few coins. You receive 3 Red Pansy 🌺. (🚶 Ignore it.)
+You walk away and find a few coins. You receive 3 Red Pansy 🌺. (🚶 Ignore it.)<br>
+You walk away, curious but cautious. You receive 50 Coins 🪙. (🏳️ Skip the lunar ritual.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1286,14 +1287,19 @@ You walk away and find a few coins. You receive 3 Red Pansy 🌺. (🚶 Ignore i
   alt="Raven's Vision"
   width="300"
 />
-**<img
+<img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ravensvision2.webp?raw=true"
   alt="Raven's Vision2"
   width="300"
-/>**
+/>
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ravensvision3.webp?raw=true"
+  alt="Raven's Vision3"
+  width="300"
+/>
 <br><br> 
-**Date**: April 26, 2025 and May 10, 2025
-**Shared By**: Korlithiel and Digits
+**Date**: April 26, 2025, May 10, 2025, and May 31, 2025
+**Shared By**: Korlithiel, Digits, and Hira
 
 <br><br>
 ---
