@@ -453,7 +453,7 @@ You receive 5 Iron ⛓️. (🚶 Ignore it.)
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/ghostlyharvest3.webp?raw=true"
   alt="Ghostly Harvest3"
-  width="200"
+  width="400"
 />
 <br><br>
 **Date**: April 18, 2025, May 11, 2025, and May 14, 2025
