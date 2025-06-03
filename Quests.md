@@ -1409,7 +1409,7 @@ You receive 50 Coins 🪙. (🚫 Respect the boundaries.)
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/treasuredust3.webp?raw=true"
   alt="Treasure Dust3"
-  width="300"
+  width="200"
 />
 <br><br>
 **Date**: April 30, 2025, May 9, 2025, and May 25, 2025
