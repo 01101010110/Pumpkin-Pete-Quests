@@ -1622,7 +1622,8 @@ A strange wind blows through the Plaza, carrying soft whispers that only you see
 🙉 Ignore the voices.
 <br><br>
 **Outcomes**:<br>
-You receive 5 Celestine Seed ✨. (🌳 Dig beneath the tree.)
+You receive 5 Celestine Seed ✨. (🌳 Dig beneath the tree.)<br>
+You receive 5 Wood 🪵. (👂 Listen carefully.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1630,10 +1631,15 @@ You receive 5 Celestine Seed ✨. (🌳 Dig beneath the tree.)
   alt="Whispers in the Wind"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/whispersinthewind2.webp?raw=true"
+  alt="Whispers in the Wind2"
+  width="300"
+/>
 <br><br>
-**Date**: April 20, 2025
+**Date**: April 20, 2025 and June 3, 2025
 
-**Shared By**: Silver-wolf 
+**Shared By**: Silver-wolf and Digits
 
 <br><br>
 ---
