@@ -219,7 +219,7 @@ What is Cornwell’s profession in Sunflower Land?
 **Outcomes**:<br>
 ✅ Correct! Cornwell is the Kingdom’s wise Librarian. You earn 100 Coins 🪙 and 5 Gems 💎. (📖 Librarian)<br>
 ❌ Nope. That's someone else's job! No prize (⚒️ Blacksmith.)<br>
-❌ Incorrect! Cornwell is not a wizard, he's a librarian. (🧙‍♂️ Wizard.)
+❌ Incorrect! Cornwell is not a wizard, he's a librarian. No Prize (🧙‍♂️ Wizard.)
 <br><br>
 **Screenshots**:<br>
 <img
