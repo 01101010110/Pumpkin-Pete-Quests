@@ -1409,7 +1409,8 @@ Timmy swears he saw a Goblin stealing honey. Investigate the scene?
 🌾 Leave the hive be.
 <br><br>
 **Outcomes**:<br>
-You receive 5 Honey 🍯. (🐾 Follow the sticky trail.)
+You receive 5 Honey 🍯. (🐾 Follow the sticky trail.)<br>
+You receive 100 Coins 🪙. (🚶 Ignore it.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -1417,10 +1418,15 @@ You receive 5 Honey 🍯. (🐾 Follow the sticky trail.)
   alt="Timmy’s Trouble"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/timmystrouble2.webp?raw=true"
+  alt="Timmy’s Trouble"
+  width="300"
+/>
 <br><br>
-**Date**: April 19, 2025
+**Date**: April 19, 2025 and June 4, 2025
 
-**Shared By**: Digits
+**Shared By**: Digits and KusariGreg|Lemonade
 
 <br><br>
 ---
