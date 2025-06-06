@@ -218,7 +218,8 @@ What is Cornwell’s profession in Sunflower Land?
 <br><br>
 **Outcomes**:<br>
 ✅ Correct! Cornwell is the Kingdom’s wise Librarian. You earn 100 Coins 🪙 and 5 Gems 💎. (📖 Librarian)<br>
-❌ Nope. That's someone else's job! No prize (⚒️ Blacksmith.)
+❌ Nope. That's someone else's job! No prize (⚒️ Blacksmith.)<br>
+❌ Incorrect! Cornwell is not a wizard, he's a librarian. (🧙‍♂️ Wizard.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -231,10 +232,15 @@ What is Cornwell’s profession in Sunflower Land?
   alt="Cornwell’s Curiosity2"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/cornwellscuriosity3.webp?raw=true"
+  alt="Cornwell’s Curiosity3"
+  width="300"
+/>
 <br><br>
-**Date**: April 21, 2025 and June 3, 2025
+**Date**: April 21, 2025, June 3, 2025, and June 4, 2025
 
-**Shared By**: Kamen Rider Decade and Rey
+**Shared By**: Kamen Rider Decade, Rey, and UncleR
 
 <br><br> 
 ---
