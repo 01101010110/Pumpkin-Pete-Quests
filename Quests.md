@@ -525,7 +525,7 @@ You receive 5 Stone 🪨. (🚶 Stay away.)
 Goblin Scheme
 <br><br>
 **Description**:<br>
-A shady goblin whispers about a shortcut to wealth. Trust him? 💎 The goblin leads you to a hidden entrance in the mountains. He claims there’s a vein of precious gems inside, but you’ll need to be quick before the mountain guardians return. Will you enter?
+A shady goblin whispers about a shortcut to wealth. Trust him?
 <br><br>
 **Choices**:<br>
 ✅ Investigate.<br>
@@ -1102,7 +1102,7 @@ You receive 5 Wood 🪵. (🚶 Ignore it.)
 Mystic Well
 <br><br>
 **Description**:<br>
-A bubbling well behind the plaza is glowing. Drop something in? As you approach the well, you hear a voice whisper that if you drop a precious item into it, you'll receive something even more valuable in return. The voice says it must be something you treasure. Will you make an offering?
+A bubbling well behind the plaza is glowing. Drop something in? 
 <br><br>
 **Choices**:<br>
 ✅ Investigate.<br>
