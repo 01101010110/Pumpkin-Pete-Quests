@@ -304,7 +304,8 @@ A glowing rune was found in the desert. Touch it or report it?
 <br><br>
 **Outcomes**:<br>
 You receive 10 Corn 🌽. (🔥 Touch the glowing rune.)<br>
-You receive 50 Coins 🪙. (🚶 Ignore it.)
+You receive 50 Coins 🪙. (🚶 Ignore it.)<br>
+You receive 50 Coins 🪙. (🏜️ Leave it undisturbed.)
 <br><br>
 **Screenshots**:<br>
 <img
@@ -317,10 +318,15 @@ You receive 50 Coins 🪙. (🚶 Ignore it.)
   alt="Desert Rune 2"
   width="300"
 />
+<img
+  src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/desertrune3.webp?raw=true"
+  alt="Desert Rune 3"
+  width="300"
+/>
 <br><br>
-**Date**: April 23, 2025 and May 24, 2025
+**Date**: April 23, 2025, May 24, 2025, and June 7, 2025
 
-**Shared By**: Alucard and Haesoo
+**Shared By**: Alucard, Haesoo, and Hira
 
 <br><br>
 ---
