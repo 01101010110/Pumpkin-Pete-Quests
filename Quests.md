@@ -321,7 +321,7 @@ You receive 50 Coins 🪙. (🏜️ Leave it undisturbed.)
 <img
   src="https://github.com/01101010110/Pumpkin-Pete-Quests/blob/main/Images/desertrune3.webp?raw=true"
   alt="Desert Rune 3"
-  width="300"
+  width="200"
 />
 <br><br>
 **Date**: April 23, 2025, May 24, 2025, and June 7, 2025
