@@ -1659,7 +1659,7 @@ A strange wind blows through the Plaza, carrying soft whispers that only you see
 <br><br>
 **Outcomes**:<br>
 You receive 5 Celestine Seed ✨. (🌳 Dig beneath the tree.)<br>
-You receive 5 Wood 🪵. (👂 Listen carefully.)
+You receive 5 Wood 🪵. (🔴 Block your ears.)
 <br><br>
 **Screenshots**:<br>
 <img
