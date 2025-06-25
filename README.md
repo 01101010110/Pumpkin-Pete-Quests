@@ -32,4 +32,5 @@ https://discord.com/channels/880987707214544966/1359771884690083941
 
 ---
 
+The source files for the app are in the src.zip file in the repo.
 
