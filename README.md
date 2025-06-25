@@ -1,7 +1,7 @@
 # 🎃 Pumpkin Pete Quests
 
 Welcome to the hub for all your Pumpkin Pete adventures!  
-This repo gathers all the quests our Discord crew has shared with us. 👾  
+This repo gathers all the quests our Discord and Telegram crew has shared with us. 👾  
 https://discord.com/channels/880987707214544966/1359771884690083941  
 
 ---
