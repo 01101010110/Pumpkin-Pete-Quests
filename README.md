@@ -17,7 +17,7 @@ https://discord.com/channels/880987707214544966/1359771884690083941
 
 ---
 
-## 🚀 Features
+## 🚀 Pumpkin Pete Quest Log App Features (Download the app here: [Releases](https://github.com/01101010110/Pumpkin-Pete-Quests/releases) )
 
 - 🔍 Search any word or phrase in your quest log  
 - 🎯 Smooth scroll to the exact spot instantly
